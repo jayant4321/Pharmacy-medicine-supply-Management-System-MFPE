@@ -1,6 +1,7 @@
 ﻿using AuthorizationApi.DataProvider;
 using AuthorizationApi.Model;
 using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Cors;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Configuration;
@@ -9,9 +10,9 @@ using System;
 using System.IdentityModel.Tokens.Jwt;
 using System.Security.Claims;
 using System.Text;
-
 namespace AuthorizationApi.Controllers
 {
+    [EnableCors("MyCorsPolicy")]
     [Route("api/[controller]")]
     [ApiController]
     public class PharmacyAuthController : ControllerBase
@@ -35,9 +36,9 @@ namespace AuthorizationApi.Controllers
             if (user != null)
             {
                 var token = GenerateJsonWebToken(user);
+                HttpContext.Session.SetString("token", "token");
                 return Ok(new { token = token });
             }
-
             return response;
         }
         private string GenerateJsonWebToken(PharmacyMembers user)

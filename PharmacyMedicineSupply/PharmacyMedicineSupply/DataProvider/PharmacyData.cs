@@ -14,7 +14,7 @@ namespace PharmacyMedicineSupply.DataProvider
         public List<Medicine> GetList()
         {
             List<Medicine> list = new List<Medicine>();
-            string BaseUrl = "https://localhost:44382/";
+            string BaseUrl = "https://localhost:5001/";
             using (var client = new HttpClient())
             {
                 client.BaseAddress = new Uri(BaseUrl);

@@ -32,6 +32,14 @@ namespace PharmacyMedicineSupply
             services.AddTransient<IPharamacyMedicineRepo,PharamacyMedicineRepo>();
             services.AddTransient<IPharmacyData,PharmacyData>();
             services.AddControllers();
+            services.AddCors(options =>
+            {
+                options.AddPolicy("MyCorsPolicy", builder => builder
+                    .WithOrigins("http://localhost:3000")
+                    .AllowCredentials()
+                    .AllowAnyMethod()
+                    .WithHeaders("Accept", "Content-Type", "Origin", "X-My-Header"));
+            });
             services.AddSwaggerGen(c =>
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "PharmacyMedicineSupply", Version = "v1" });
@@ -51,6 +59,8 @@ namespace PharmacyMedicineSupply
             app.UseHttpsRedirection();
 
             app.UseRouting();
+
+            app.UseCors("MyCorsPolicy");
 
             app.UseAuthorization();
 
