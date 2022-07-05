@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Cognizant Practice File\\MFPE\\Pharmacy-medicine-supply-Management-System-MFPE\\MedicineStock\\MedicineStock\\MedicineStock.csproj": {}
+    "C:\\Users\\hp\\OneDrive\\Desktop\\Pharmacy-medicine-supply-management\\MedicineStock\\MedicineStock\\MedicineStock.csproj": {}
   },
   "projects": {
-    "D:\\Cognizant Practice File\\MFPE\\Pharmacy-medicine-supply-Management-System-MFPE\\MedicineStock\\MedicineStock\\MedicineStock.csproj": {
+    "C:\\Users\\hp\\OneDrive\\Desktop\\Pharmacy-medicine-supply-management\\MedicineStock\\MedicineStock\\MedicineStock.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Cognizant Practice File\\MFPE\\Pharmacy-medicine-supply-Management-System-MFPE\\MedicineStock\\MedicineStock\\MedicineStock.csproj",
+        "projectUniqueName": "C:\\Users\\hp\\OneDrive\\Desktop\\Pharmacy-medicine-supply-management\\MedicineStock\\MedicineStock\\MedicineStock.csproj",
         "projectName": "MedicineStock",
-        "projectPath": "D:\\Cognizant Practice File\\MFPE\\Pharmacy-medicine-supply-Management-System-MFPE\\MedicineStock\\MedicineStock\\MedicineStock.csproj",
-        "packagesPath": "C:\\Users\\Acer\\.nuget\\packages\\",
-        "outputPath": "D:\\Cognizant Practice File\\MFPE\\Pharmacy-medicine-supply-Management-System-MFPE\\MedicineStock\\MedicineStock\\obj\\",
+        "projectPath": "C:\\Users\\hp\\OneDrive\\Desktop\\Pharmacy-medicine-supply-management\\MedicineStock\\MedicineStock\\MedicineStock.csproj",
+        "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hp\\OneDrive\\Desktop\\Pharmacy-medicine-supply-management\\MedicineStock\\MedicineStock\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Acer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -67,7 +67,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     }
