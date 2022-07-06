@@ -28,6 +28,14 @@ namespace MedicineStock
         {
 
             services.AddControllers();
+            // services.AddCors(options =>
+            // {
+            //     options.AddPolicy("MyCorsPolicy", builder => builder
+            //         .WithOrigins("http://localhost:3000")
+            //         .AllowCredentials()
+            //         .AllowAnyMethod()
+            //         .WithHeaders("Accept", "Content-Type", "Origin", "X-My-Header"));
+            // });
             services.AddSwaggerGen(c =>
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "MedicineStock", Version = "v1" });
@@ -45,6 +53,8 @@ namespace MedicineStock
             }
 
             app.UseHttpsRedirection();
+
+            //app.UseCors("MyCorsPolicy");
 
             app.UseRouting();
 

@@ -17,7 +17,7 @@ namespace PharmacyMedicineSupply.Controllers
         {
             Pharm = new PharamacyMedicineRepo();
         }
-        [HttpGet]
+        [HttpPost]
         public IEnumerable<PharmacyMedicine> PharmacySupply([FromBody]List<MedicineDemand> med)
         {
             IEnumerable<PharmacyMedicine> AllMed = Pharm.GetPharmacyMedicinesSupply(med);
