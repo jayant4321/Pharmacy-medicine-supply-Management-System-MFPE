@@ -48,19 +48,10 @@ namespace AuthorizationApi
 			{
 				options.AddPolicy("MyCorsPolicy", builder => builder
 					.WithOrigins("http://localhost:3000")
-					.AllowCredentials()
 					.AllowAnyMethod()
 					.WithHeaders("Accept", "Content-Type", "Origin", "X-My-Header"));
 			});
 			services.AddControllers();
-			services.AddDistributedMemoryCache();
-
-			services.AddSession(options => {
-				options.IdleTimeout = TimeSpan.FromMinutes(30);
-				options.Cookie.HttpOnly = false;
-				options.Cookie.Name = "YourName";
-				options.Cookie.SameSite=SameSiteMode.None;
-			});
 			services.AddSwaggerGen(c =>
 			{
 				c.SwaggerDoc("v1", new OpenApiInfo { Title = "AuthorizationApi", Version = "v1" });
@@ -78,7 +69,6 @@ namespace AuthorizationApi
 			}
 			app.UseHttpsRedirection();
 			app.UseRouting();
-			app.UseSession();
 			app.UseAuthentication();
 			app.UseCors("MyCorsPolicy");
 

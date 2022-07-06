@@ -1,0 +1,87 @@
+C:\Users\hp\OneDrive\Desktop\Pharmacy-medicine-supply-management\WebApplication1\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\hp\OneDrive\Desktop\Pharmacy-medicine-supply-management\WebApplication1\bin\Debug\net5.0\appsettings.json
+C:\Users\hp\OneDrive\Desktop\Pharmacy-medicine-supply-management\WebApplication1\bin\Debug\net5.0\MedicalRepresentativeScheduler.exe
+C:\Users\hp\OneDrive\Desktop\Pharmacy-medicine-supply-management\WebApplication1\bin\Debug\net5.0\MedicalRepresentativeScheduler.deps.json
+C:\Users\hp\OneDrive\Desktop\Pharmacy-medicine-supply-management\WebApplication1\bin\Debug\net5.0\MedicalRepresentativeScheduler.runtimeconfig.json
+C:\Users\hp\OneDrive\Desktop\Pharmacy-medicine-supply-management\WebApplication1\bin\Debug\net5.0\MedicalRepresentativeScheduler.runtimeconfig.dev.json
+C:\Users\hp\OneDrive\Desktop\Pharmacy-medicine-supply-management\WebApplication1\bin\Debug\net5.0\MedicalRepresentativeScheduler.dll
+C:\Users\hp\OneDrive\Desktop\Pharmacy-medicine-supply-management\WebApplication1\bin\Debug\net5.0\MedicalRepresentativeScheduler.pdb
+C:\Users\hp\OneDrive\Desktop\Pharmacy-medicine-supply-management\WebApplication1\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\hp\OneDrive\Desktop\Pharmacy-medicine-supply-management\WebApplication1\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\hp\OneDrive\Desktop\Pharmacy-medicine-supply-management\WebApplication1\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\hp\OneDrive\Desktop\Pharmacy-medicine-supply-management\WebApplication1\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\hp\OneDrive\Desktop\Pharmacy-medicine-supply-management\WebApplication1\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\hp\OneDrive\Desktop\Pharmacy-medicine-supply-management\WebApplication1\obj\Debug\net5.0\MedicalRepresentativeScheduler.csproj.AssemblyReference.cache
+C:\Users\hp\OneDrive\Desktop\Pharmacy-medicine-supply-management\WebApplication1\obj\Debug\net5.0\MedicalRepresentativeScheduler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\OneDrive\Desktop\Pharmacy-medicine-supply-management\WebApplication1\obj\Debug\net5.0\MedicalRepresentativeScheduler.AssemblyInfoInputs.cache
+C:\Users\hp\OneDrive\Desktop\Pharmacy-medicine-supply-management\WebApplication1\obj\Debug\net5.0\MedicalRepresentativeScheduler.AssemblyInfo.cs
+C:\Users\hp\OneDrive\Desktop\Pharmacy-medicine-supply-management\WebApplication1\obj\Debug\net5.0\MedicalRepresentativeScheduler.csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive\Desktop\Pharmacy-medicine-supply-management\WebApplication1\obj\Debug\net5.0\MedicalRepresentativeScheduler.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\hp\OneDrive\Desktop\Pharmacy-medicine-supply-management\WebApplication1\obj\Debug\net5.0\MedicalRepresentativeScheduler.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hp\OneDrive\Desktop\Pharmacy-medicine-supply-management\WebApplication1\obj\Debug\net5.0\scopedcss\bundle\MedicalRepresentativeScheduler.styles.css
+C:\Users\hp\OneDrive\Desktop\Pharmacy-medicine-supply-management\WebApplication1\obj\Debug\net5.0\staticwebassets\MedicalRepresentativeScheduler.StaticWebAssets.Manifest.cache
+C:\Users\hp\OneDrive\Desktop\Pharmacy-medicine-supply-management\WebApplication1\obj\Debug\net5.0\MedicalRepresentativeScheduler.RazorTargetAssemblyInfo.cache
+C:\Users\hp\OneDrive\Desktop\Pharmacy-medicine-supply-management\WebApplication1\obj\Debug\net5.0\MedicalRepresentativeScheduler.csproj.CopyComplete
+C:\Users\hp\OneDrive\Desktop\Pharmacy-medicine-supply-management\WebApplication1\obj\Debug\net5.0\MedicalRepresentativeScheduler.dll
+C:\Users\hp\OneDrive\Desktop\Pharmacy-medicine-supply-management\WebApplication1\obj\Debug\net5.0\refint\MedicalRepresentativeScheduler.dll
+C:\Users\hp\OneDrive\Desktop\Pharmacy-medicine-supply-management\WebApplication1\obj\Debug\net5.0\MedicalRepresentativeScheduler.pdb
+C:\Users\hp\OneDrive\Desktop\Pharmacy-medicine-supply-management\WebApplication1\obj\Debug\net5.0\MedicalRepresentativeScheduler.genruntimeconfig.cache
+C:\Users\hp\OneDrive\Desktop\Pharmacy-medicine-supply-management\WebApplication1\obj\Debug\net5.0\ref\MedicalRepresentativeScheduler.dll
+D:\Cognizant Practice File\MFPE\sanket\MedicalRepresentativeScheduler\bin\Debug\net5.0\appsettings.Development.json
+D:\Cognizant Practice File\MFPE\sanket\MedicalRepresentativeScheduler\bin\Debug\net5.0\appsettings.json
+D:\Cognizant Practice File\MFPE\sanket\MedicalRepresentativeScheduler\bin\Debug\net5.0\MedicalRepresentativeScheduler.exe
+D:\Cognizant Practice File\MFPE\sanket\MedicalRepresentativeScheduler\bin\Debug\net5.0\MedicalRepresentativeScheduler.deps.json
+D:\Cognizant Practice File\MFPE\sanket\MedicalRepresentativeScheduler\bin\Debug\net5.0\MedicalRepresentativeScheduler.runtimeconfig.json
+D:\Cognizant Practice File\MFPE\sanket\MedicalRepresentativeScheduler\bin\Debug\net5.0\MedicalRepresentativeScheduler.runtimeconfig.dev.json
+D:\Cognizant Practice File\MFPE\sanket\MedicalRepresentativeScheduler\bin\Debug\net5.0\MedicalRepresentativeScheduler.dll
+D:\Cognizant Practice File\MFPE\sanket\MedicalRepresentativeScheduler\bin\Debug\net5.0\MedicalRepresentativeScheduler.pdb
+D:\Cognizant Practice File\MFPE\sanket\MedicalRepresentativeScheduler\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Cognizant Practice File\MFPE\sanket\MedicalRepresentativeScheduler\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Cognizant Practice File\MFPE\sanket\MedicalRepresentativeScheduler\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Cognizant Practice File\MFPE\sanket\MedicalRepresentativeScheduler\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Cognizant Practice File\MFPE\sanket\MedicalRepresentativeScheduler\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Cognizant Practice File\MFPE\sanket\MedicalRepresentativeScheduler\obj\Debug\net5.0\MedicalRepresentativeScheduler.csproj.AssemblyReference.cache
+D:\Cognizant Practice File\MFPE\sanket\MedicalRepresentativeScheduler\obj\Debug\net5.0\MedicalRepresentativeScheduler.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cognizant Practice File\MFPE\sanket\MedicalRepresentativeScheduler\obj\Debug\net5.0\MedicalRepresentativeScheduler.AssemblyInfoInputs.cache
+D:\Cognizant Practice File\MFPE\sanket\MedicalRepresentativeScheduler\obj\Debug\net5.0\MedicalRepresentativeScheduler.AssemblyInfo.cs
+D:\Cognizant Practice File\MFPE\sanket\MedicalRepresentativeScheduler\obj\Debug\net5.0\MedicalRepresentativeScheduler.csproj.CoreCompileInputs.cache
+D:\Cognizant Practice File\MFPE\sanket\MedicalRepresentativeScheduler\obj\Debug\net5.0\MedicalRepresentativeScheduler.MvcApplicationPartsAssemblyInfo.cs
+D:\Cognizant Practice File\MFPE\sanket\MedicalRepresentativeScheduler\obj\Debug\net5.0\MedicalRepresentativeScheduler.MvcApplicationPartsAssemblyInfo.cache
+D:\Cognizant Practice File\MFPE\sanket\MedicalRepresentativeScheduler\obj\Debug\net5.0\scopedcss\bundle\MedicalRepresentativeScheduler.styles.css
+D:\Cognizant Practice File\MFPE\sanket\MedicalRepresentativeScheduler\obj\Debug\net5.0\staticwebassets\MedicalRepresentativeScheduler.StaticWebAssets.Manifest.cache
+D:\Cognizant Practice File\MFPE\sanket\MedicalRepresentativeScheduler\obj\Debug\net5.0\MedicalRepresentativeScheduler.RazorTargetAssemblyInfo.cache
+D:\Cognizant Practice File\MFPE\sanket\MedicalRepresentativeScheduler\obj\Debug\net5.0\MedicalRepresentativeScheduler.csproj.CopyComplete
+D:\Cognizant Practice File\MFPE\sanket\MedicalRepresentativeScheduler\obj\Debug\net5.0\MedicalRepresentativeScheduler.dll
+D:\Cognizant Practice File\MFPE\sanket\MedicalRepresentativeScheduler\obj\Debug\net5.0\refint\MedicalRepresentativeScheduler.dll
+D:\Cognizant Practice File\MFPE\sanket\MedicalRepresentativeScheduler\obj\Debug\net5.0\MedicalRepresentativeScheduler.pdb
+D:\Cognizant Practice File\MFPE\sanket\MedicalRepresentativeScheduler\obj\Debug\net5.0\MedicalRepresentativeScheduler.genruntimeconfig.cache
+D:\Cognizant Practice File\MFPE\sanket\MedicalRepresentativeScheduler\obj\Debug\net5.0\ref\MedicalRepresentativeScheduler.dll
+D:\Cognizant Practice File\MFPE\Pharmacy-medicine-supply-Management-System-MFPE\MedicalRepresentativeScheduler\bin\Debug\net5.0\appsettings.Development.json
+D:\Cognizant Practice File\MFPE\Pharmacy-medicine-supply-Management-System-MFPE\MedicalRepresentativeScheduler\bin\Debug\net5.0\appsettings.json
+D:\Cognizant Practice File\MFPE\Pharmacy-medicine-supply-Management-System-MFPE\MedicalRepresentativeScheduler\bin\Debug\net5.0\MedicalRepresentativeScheduler.exe
+D:\Cognizant Practice File\MFPE\Pharmacy-medicine-supply-Management-System-MFPE\MedicalRepresentativeScheduler\bin\Debug\net5.0\MedicalRepresentativeScheduler.deps.json
+D:\Cognizant Practice File\MFPE\Pharmacy-medicine-supply-Management-System-MFPE\MedicalRepresentativeScheduler\bin\Debug\net5.0\MedicalRepresentativeScheduler.runtimeconfig.json
+D:\Cognizant Practice File\MFPE\Pharmacy-medicine-supply-Management-System-MFPE\MedicalRepresentativeScheduler\bin\Debug\net5.0\MedicalRepresentativeScheduler.runtimeconfig.dev.json
+D:\Cognizant Practice File\MFPE\Pharmacy-medicine-supply-Management-System-MFPE\MedicalRepresentativeScheduler\bin\Debug\net5.0\MedicalRepresentativeScheduler.dll
+D:\Cognizant Practice File\MFPE\Pharmacy-medicine-supply-Management-System-MFPE\MedicalRepresentativeScheduler\bin\Debug\net5.0\MedicalRepresentativeScheduler.pdb
+D:\Cognizant Practice File\MFPE\Pharmacy-medicine-supply-Management-System-MFPE\MedicalRepresentativeScheduler\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Cognizant Practice File\MFPE\Pharmacy-medicine-supply-Management-System-MFPE\MedicalRepresentativeScheduler\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Cognizant Practice File\MFPE\Pharmacy-medicine-supply-Management-System-MFPE\MedicalRepresentativeScheduler\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Cognizant Practice File\MFPE\Pharmacy-medicine-supply-Management-System-MFPE\MedicalRepresentativeScheduler\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Cognizant Practice File\MFPE\Pharmacy-medicine-supply-Management-System-MFPE\MedicalRepresentativeScheduler\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Cognizant Practice File\MFPE\Pharmacy-medicine-supply-Management-System-MFPE\MedicalRepresentativeScheduler\obj\Debug\net5.0\MedicalRepresentativeScheduler.csproj.AssemblyReference.cache
+D:\Cognizant Practice File\MFPE\Pharmacy-medicine-supply-Management-System-MFPE\MedicalRepresentativeScheduler\obj\Debug\net5.0\MedicalRepresentativeScheduler.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cognizant Practice File\MFPE\Pharmacy-medicine-supply-Management-System-MFPE\MedicalRepresentativeScheduler\obj\Debug\net5.0\MedicalRepresentativeScheduler.AssemblyInfoInputs.cache
+D:\Cognizant Practice File\MFPE\Pharmacy-medicine-supply-Management-System-MFPE\MedicalRepresentativeScheduler\obj\Debug\net5.0\MedicalRepresentativeScheduler.AssemblyInfo.cs
+D:\Cognizant Practice File\MFPE\Pharmacy-medicine-supply-Management-System-MFPE\MedicalRepresentativeScheduler\obj\Debug\net5.0\MedicalRepresentativeScheduler.csproj.CoreCompileInputs.cache
+D:\Cognizant Practice File\MFPE\Pharmacy-medicine-supply-Management-System-MFPE\MedicalRepresentativeScheduler\obj\Debug\net5.0\MedicalRepresentativeScheduler.MvcApplicationPartsAssemblyInfo.cs
+D:\Cognizant Practice File\MFPE\Pharmacy-medicine-supply-Management-System-MFPE\MedicalRepresentativeScheduler\obj\Debug\net5.0\MedicalRepresentativeScheduler.MvcApplicationPartsAssemblyInfo.cache
+D:\Cognizant Practice File\MFPE\Pharmacy-medicine-supply-Management-System-MFPE\MedicalRepresentativeScheduler\obj\Debug\net5.0\scopedcss\bundle\MedicalRepresentativeScheduler.styles.css
+D:\Cognizant Practice File\MFPE\Pharmacy-medicine-supply-Management-System-MFPE\MedicalRepresentativeScheduler\obj\Debug\net5.0\staticwebassets\MedicalRepresentativeScheduler.StaticWebAssets.Manifest.cache
+D:\Cognizant Practice File\MFPE\Pharmacy-medicine-supply-Management-System-MFPE\MedicalRepresentativeScheduler\obj\Debug\net5.0\MedicalRepresentativeScheduler.RazorTargetAssemblyInfo.cache
+D:\Cognizant Practice File\MFPE\Pharmacy-medicine-supply-Management-System-MFPE\MedicalRepresentativeScheduler\obj\Debug\net5.0\MedicalRepresentativeScheduler.csproj.CopyComplete
+D:\Cognizant Practice File\MFPE\Pharmacy-medicine-supply-Management-System-MFPE\MedicalRepresentativeScheduler\obj\Debug\net5.0\MedicalRepresentativeScheduler.dll
+D:\Cognizant Practice File\MFPE\Pharmacy-medicine-supply-Management-System-MFPE\MedicalRepresentativeScheduler\obj\Debug\net5.0\refint\MedicalRepresentativeScheduler.dll
+D:\Cognizant Practice File\MFPE\Pharmacy-medicine-supply-Management-System-MFPE\MedicalRepresentativeScheduler\obj\Debug\net5.0\MedicalRepresentativeScheduler.pdb
+D:\Cognizant Practice File\MFPE\Pharmacy-medicine-supply-Management-System-MFPE\MedicalRepresentativeScheduler\obj\Debug\net5.0\MedicalRepresentativeScheduler.genruntimeconfig.cache
+D:\Cognizant Practice File\MFPE\Pharmacy-medicine-supply-Management-System-MFPE\MedicalRepresentativeScheduler\obj\Debug\net5.0\ref\MedicalRepresentativeScheduler.dll

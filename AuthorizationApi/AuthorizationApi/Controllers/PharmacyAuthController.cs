@@ -36,7 +36,6 @@ namespace AuthorizationApi.Controllers
             if (user != null)
             {
                 var token = GenerateJsonWebToken(user);
-                HttpContext.Session.SetString("token", "token");
                 return Ok(new { token = token });
             }
             return response;
