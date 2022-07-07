@@ -46,10 +46,11 @@ namespace AuthorizationApi
 				});
 			services.AddCors(options =>
 			{
-				options.AddPolicy("MyCorsPolicy", builder => builder
-					.WithOrigins("http://localhost:3000")
-					.AllowAnyMethod()
-					.WithHeaders("Accept", "Content-Type", "Origin", "X-My-Header"));
+				options.AddPolicy("MyCorsPolicy", builder => builder.AllowAnyOrigin()
+						   .AllowAnyMethod()
+						   .AllowAnyHeader()
+						   .AllowCredentials()
+						   .WithOrigins("http://localhost:3000"));
 			});
 			services.AddControllers();
 			services.AddSwaggerGen(c =>
