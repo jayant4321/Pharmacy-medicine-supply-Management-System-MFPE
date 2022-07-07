@@ -5,6 +5,6 @@ namespace MedicalRepresentativeScheduler.DataProvider
 {
     public interface IMedicalRepresentativeSchedule
     {
-        public List<RepSchedule> GetScedule(DateTime startDate);
+        public List<RepSchedule> GetSchedule(DateTime startDate);
     }
 }

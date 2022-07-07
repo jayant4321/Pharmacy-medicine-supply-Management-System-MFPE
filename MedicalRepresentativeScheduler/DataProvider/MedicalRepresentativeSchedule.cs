@@ -34,7 +34,7 @@ namespace MedicalRepresentativeScheduler.DataProvider
             stock = new MedicineStockProvider();
         }
 
-        public List<RepSchedule> GetScedule(DateTime startDate) 
+        public List<RepSchedule> GetSchedule(DateTime startDate) 
         { 
             DateTime currentDate = startDate;
             int counter = 0;

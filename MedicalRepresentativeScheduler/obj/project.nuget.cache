@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1B1ORs0iU/iQxnSIcFaeJ3Gf35vVA/OVkwlKBWIyHCGNxiD86vRA/lQOrMeZ59u04MD0CnXL42A2BRM6bcsEhg==",
+  "dgSpecHash": "Rm2OiHIdRyqXtI//Yova2Yf5PRoj/L13moY9W3SE8OkFOAlIZJzaRuyvhuHgvE6aBzl93sGPbgkK8ztcTswWXA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\hp\\OneDrive\\Desktop\\Pharmacy-medicine-supply-management\\WebApplication1\\MedicalRepresentativeScheduler.csproj",
+  "projectFilePath": "C:\\Users\\hp\\OneDrive\\Desktop\\Pharmacy-medicine-supply-management\\MedicalRepresentativeScheduler\\MedicalRepresentativeScheduler.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hp\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\hp\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

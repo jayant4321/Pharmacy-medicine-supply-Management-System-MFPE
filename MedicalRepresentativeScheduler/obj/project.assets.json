@@ -323,11 +323,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hp\\OneDrive\\Desktop\\Pharmacy-medicine-supply-management\\WebApplication1\\MedicalRepresentativeScheduler.csproj",
+      "projectUniqueName": "C:\\Users\\hp\\OneDrive\\Desktop\\Pharmacy-medicine-supply-management\\MedicalRepresentativeScheduler\\MedicalRepresentativeScheduler.csproj",
       "projectName": "MedicalRepresentativeScheduler",
-      "projectPath": "C:\\Users\\hp\\OneDrive\\Desktop\\Pharmacy-medicine-supply-management\\WebApplication1\\MedicalRepresentativeScheduler.csproj",
+      "projectPath": "C:\\Users\\hp\\OneDrive\\Desktop\\Pharmacy-medicine-supply-management\\MedicalRepresentativeScheduler\\MedicalRepresentativeScheduler.csproj",
       "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hp\\OneDrive\\Desktop\\Pharmacy-medicine-supply-management\\WebApplication1\\obj\\",
+      "outputPath": "C:\\Users\\hp\\OneDrive\\Desktop\\Pharmacy-medicine-supply-management\\MedicalRepresentativeScheduler\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",

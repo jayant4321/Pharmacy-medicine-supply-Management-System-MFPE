@@ -18,11 +18,11 @@ namespace MedicalRepresentativeScheduler.Controllers
             medicalRepresentativeSchedule = new MedicalRepresentativeSchedule();
         }
         // GET: api/<RepScheduleController>
-        [HttpGet("RepSchedule")]
-        public IActionResult Get(DateTime startDate)
+        [HttpGet("RepSchedule/{startDate}")]
+        public IActionResult Get(string startDate)
         {
-
-            return Ok(medicalRepresentativeSchedule.GetScedule(startDate));
+            var date = Convert.ToDateTime(startDate);
+            return Ok(medicalRepresentativeSchedule.GetSchedule(date));
             
         }
 
