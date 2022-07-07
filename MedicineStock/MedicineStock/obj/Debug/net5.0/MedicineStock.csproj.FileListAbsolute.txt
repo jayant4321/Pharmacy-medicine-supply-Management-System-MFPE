@@ -1,0 +1,84 @@
+D:\Cognizant Practice File\MFPE\Pharmacy-medicine-supply-Management-System-MFPE\MedicineStock\MedicineStock\obj\Debug\net5.0\MedicineStock.csproj.AssemblyReference.cache
+D:\Cognizant Practice File\MFPE\Pharmacy-medicine-supply-Management-System-MFPE\MedicineStock\MedicineStock\obj\Debug\net5.0\MedicineStock.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cognizant Practice File\MFPE\Pharmacy-medicine-supply-Management-System-MFPE\MedicineStock\MedicineStock\obj\Debug\net5.0\MedicineStock.AssemblyInfoInputs.cache
+D:\Cognizant Practice File\MFPE\Pharmacy-medicine-supply-Management-System-MFPE\MedicineStock\MedicineStock\obj\Debug\net5.0\MedicineStock.AssemblyInfo.cs
+D:\Cognizant Practice File\MFPE\Pharmacy-medicine-supply-Management-System-MFPE\MedicineStock\MedicineStock\obj\Debug\net5.0\MedicineStock.csproj.CoreCompileInputs.cache
+D:\Cognizant Practice File\MFPE\Pharmacy-medicine-supply-Management-System-MFPE\MedicineStock\MedicineStock\obj\Debug\net5.0\MedicineStock.MvcApplicationPartsAssemblyInfo.cs
+D:\Cognizant Practice File\MFPE\Pharmacy-medicine-supply-Management-System-MFPE\MedicineStock\MedicineStock\obj\Debug\net5.0\MedicineStock.MvcApplicationPartsAssemblyInfo.cache
+D:\Cognizant Practice File\MFPE\Pharmacy-medicine-supply-Management-System-MFPE\MedicineStock\MedicineStock\bin\Debug\net5.0\appsettings.Development.json
+D:\Cognizant Practice File\MFPE\Pharmacy-medicine-supply-Management-System-MFPE\MedicineStock\MedicineStock\bin\Debug\net5.0\appsettings.json
+D:\Cognizant Practice File\MFPE\Pharmacy-medicine-supply-Management-System-MFPE\MedicineStock\MedicineStock\bin\Debug\net5.0\MedicineStock.exe
+D:\Cognizant Practice File\MFPE\Pharmacy-medicine-supply-Management-System-MFPE\MedicineStock\MedicineStock\bin\Debug\net5.0\MedicineStock.deps.json
+D:\Cognizant Practice File\MFPE\Pharmacy-medicine-supply-Management-System-MFPE\MedicineStock\MedicineStock\bin\Debug\net5.0\MedicineStock.runtimeconfig.json
+D:\Cognizant Practice File\MFPE\Pharmacy-medicine-supply-Management-System-MFPE\MedicineStock\MedicineStock\bin\Debug\net5.0\MedicineStock.runtimeconfig.dev.json
+D:\Cognizant Practice File\MFPE\Pharmacy-medicine-supply-Management-System-MFPE\MedicineStock\MedicineStock\bin\Debug\net5.0\MedicineStock.dll
+D:\Cognizant Practice File\MFPE\Pharmacy-medicine-supply-Management-System-MFPE\MedicineStock\MedicineStock\bin\Debug\net5.0\MedicineStock.pdb
+D:\Cognizant Practice File\MFPE\Pharmacy-medicine-supply-Management-System-MFPE\MedicineStock\MedicineStock\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Cognizant Practice File\MFPE\Pharmacy-medicine-supply-Management-System-MFPE\MedicineStock\MedicineStock\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Cognizant Practice File\MFPE\Pharmacy-medicine-supply-Management-System-MFPE\MedicineStock\MedicineStock\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Cognizant Practice File\MFPE\Pharmacy-medicine-supply-Management-System-MFPE\MedicineStock\MedicineStock\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Cognizant Practice File\MFPE\Pharmacy-medicine-supply-Management-System-MFPE\MedicineStock\MedicineStock\obj\Debug\net5.0\scopedcss\bundle\MedicineStock.styles.css
+D:\Cognizant Practice File\MFPE\Pharmacy-medicine-supply-Management-System-MFPE\MedicineStock\MedicineStock\obj\Debug\net5.0\staticwebassets\MedicineStock.StaticWebAssets.Manifest.cache
+D:\Cognizant Practice File\MFPE\Pharmacy-medicine-supply-Management-System-MFPE\MedicineStock\MedicineStock\obj\Debug\net5.0\MedicineStock.RazorTargetAssemblyInfo.cache
+D:\Cognizant Practice File\MFPE\Pharmacy-medicine-supply-Management-System-MFPE\MedicineStock\MedicineStock\obj\Debug\net5.0\MedicineStock.csproj.CopyComplete
+D:\Cognizant Practice File\MFPE\Pharmacy-medicine-supply-Management-System-MFPE\MedicineStock\MedicineStock\obj\Debug\net5.0\MedicineStock.dll
+D:\Cognizant Practice File\MFPE\Pharmacy-medicine-supply-Management-System-MFPE\MedicineStock\MedicineStock\obj\Debug\net5.0\refint\MedicineStock.dll
+D:\Cognizant Practice File\MFPE\Pharmacy-medicine-supply-Management-System-MFPE\MedicineStock\MedicineStock\obj\Debug\net5.0\MedicineStock.pdb
+D:\Cognizant Practice File\MFPE\Pharmacy-medicine-supply-Management-System-MFPE\MedicineStock\MedicineStock\obj\Debug\net5.0\MedicineStock.genruntimeconfig.cache
+D:\Cognizant Practice File\MFPE\Pharmacy-medicine-supply-Management-System-MFPE\MedicineStock\MedicineStock\obj\Debug\net5.0\ref\MedicineStock.dll
+C:\Users\hp\OneDrive\Desktop\Pharmacy-medicine-supply-management\MedicineStock\MedicineStock\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\hp\OneDrive\Desktop\Pharmacy-medicine-supply-management\MedicineStock\MedicineStock\bin\Debug\net5.0\appsettings.json
+C:\Users\hp\OneDrive\Desktop\Pharmacy-medicine-supply-management\MedicineStock\MedicineStock\bin\Debug\net5.0\MedicineStock.exe
+C:\Users\hp\OneDrive\Desktop\Pharmacy-medicine-supply-management\MedicineStock\MedicineStock\bin\Debug\net5.0\MedicineStock.deps.json
+C:\Users\hp\OneDrive\Desktop\Pharmacy-medicine-supply-management\MedicineStock\MedicineStock\bin\Debug\net5.0\MedicineStock.runtimeconfig.json
+C:\Users\hp\OneDrive\Desktop\Pharmacy-medicine-supply-management\MedicineStock\MedicineStock\bin\Debug\net5.0\MedicineStock.runtimeconfig.dev.json
+C:\Users\hp\OneDrive\Desktop\Pharmacy-medicine-supply-management\MedicineStock\MedicineStock\bin\Debug\net5.0\MedicineStock.dll
+C:\Users\hp\OneDrive\Desktop\Pharmacy-medicine-supply-management\MedicineStock\MedicineStock\bin\Debug\net5.0\MedicineStock.pdb
+C:\Users\hp\OneDrive\Desktop\Pharmacy-medicine-supply-management\MedicineStock\MedicineStock\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\hp\OneDrive\Desktop\Pharmacy-medicine-supply-management\MedicineStock\MedicineStock\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\hp\OneDrive\Desktop\Pharmacy-medicine-supply-management\MedicineStock\MedicineStock\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\hp\OneDrive\Desktop\Pharmacy-medicine-supply-management\MedicineStock\MedicineStock\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\hp\OneDrive\Desktop\Pharmacy-medicine-supply-management\MedicineStock\MedicineStock\obj\Debug\net5.0\MedicineStock.csproj.AssemblyReference.cache
+C:\Users\hp\OneDrive\Desktop\Pharmacy-medicine-supply-management\MedicineStock\MedicineStock\obj\Debug\net5.0\MedicineStock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\OneDrive\Desktop\Pharmacy-medicine-supply-management\MedicineStock\MedicineStock\obj\Debug\net5.0\MedicineStock.AssemblyInfoInputs.cache
+C:\Users\hp\OneDrive\Desktop\Pharmacy-medicine-supply-management\MedicineStock\MedicineStock\obj\Debug\net5.0\MedicineStock.AssemblyInfo.cs
+C:\Users\hp\OneDrive\Desktop\Pharmacy-medicine-supply-management\MedicineStock\MedicineStock\obj\Debug\net5.0\MedicineStock.csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive\Desktop\Pharmacy-medicine-supply-management\MedicineStock\MedicineStock\obj\Debug\net5.0\MedicineStock.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\hp\OneDrive\Desktop\Pharmacy-medicine-supply-management\MedicineStock\MedicineStock\obj\Debug\net5.0\MedicineStock.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hp\OneDrive\Desktop\Pharmacy-medicine-supply-management\MedicineStock\MedicineStock\obj\Debug\net5.0\scopedcss\bundle\MedicineStock.styles.css
+C:\Users\hp\OneDrive\Desktop\Pharmacy-medicine-supply-management\MedicineStock\MedicineStock\obj\Debug\net5.0\staticwebassets\MedicineStock.StaticWebAssets.Manifest.cache
+C:\Users\hp\OneDrive\Desktop\Pharmacy-medicine-supply-management\MedicineStock\MedicineStock\obj\Debug\net5.0\MedicineStock.RazorTargetAssemblyInfo.cache
+C:\Users\hp\OneDrive\Desktop\Pharmacy-medicine-supply-management\MedicineStock\MedicineStock\obj\Debug\net5.0\MedicineStock.csproj.CopyComplete
+C:\Users\hp\OneDrive\Desktop\Pharmacy-medicine-supply-management\MedicineStock\MedicineStock\obj\Debug\net5.0\MedicineStock.dll
+C:\Users\hp\OneDrive\Desktop\Pharmacy-medicine-supply-management\MedicineStock\MedicineStock\obj\Debug\net5.0\refint\MedicineStock.dll
+C:\Users\hp\OneDrive\Desktop\Pharmacy-medicine-supply-management\MedicineStock\MedicineStock\obj\Debug\net5.0\MedicineStock.pdb
+C:\Users\hp\OneDrive\Desktop\Pharmacy-medicine-supply-management\MedicineStock\MedicineStock\obj\Debug\net5.0\MedicineStock.genruntimeconfig.cache
+C:\Users\hp\OneDrive\Desktop\Pharmacy-medicine-supply-management\MedicineStock\MedicineStock\obj\Debug\net5.0\ref\MedicineStock.dll
+D:\Cognizant Practice File\MFPE\Pharmacy Medicine\MedicineStock\MedicineStock\bin\Debug\net5.0\appsettings.Development.json
+D:\Cognizant Practice File\MFPE\Pharmacy Medicine\MedicineStock\MedicineStock\bin\Debug\net5.0\appsettings.json
+D:\Cognizant Practice File\MFPE\Pharmacy Medicine\MedicineStock\MedicineStock\bin\Debug\net5.0\MedicineStock.exe
+D:\Cognizant Practice File\MFPE\Pharmacy Medicine\MedicineStock\MedicineStock\bin\Debug\net5.0\MedicineStock.deps.json
+D:\Cognizant Practice File\MFPE\Pharmacy Medicine\MedicineStock\MedicineStock\bin\Debug\net5.0\MedicineStock.runtimeconfig.json
+D:\Cognizant Practice File\MFPE\Pharmacy Medicine\MedicineStock\MedicineStock\bin\Debug\net5.0\MedicineStock.runtimeconfig.dev.json
+D:\Cognizant Practice File\MFPE\Pharmacy Medicine\MedicineStock\MedicineStock\bin\Debug\net5.0\MedicineStock.dll
+D:\Cognizant Practice File\MFPE\Pharmacy Medicine\MedicineStock\MedicineStock\bin\Debug\net5.0\MedicineStock.pdb
+D:\Cognizant Practice File\MFPE\Pharmacy Medicine\MedicineStock\MedicineStock\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Cognizant Practice File\MFPE\Pharmacy Medicine\MedicineStock\MedicineStock\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Cognizant Practice File\MFPE\Pharmacy Medicine\MedicineStock\MedicineStock\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Cognizant Practice File\MFPE\Pharmacy Medicine\MedicineStock\MedicineStock\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Cognizant Practice File\MFPE\Pharmacy Medicine\MedicineStock\MedicineStock\obj\Debug\net5.0\MedicineStock.csproj.AssemblyReference.cache
+D:\Cognizant Practice File\MFPE\Pharmacy Medicine\MedicineStock\MedicineStock\obj\Debug\net5.0\MedicineStock.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cognizant Practice File\MFPE\Pharmacy Medicine\MedicineStock\MedicineStock\obj\Debug\net5.0\MedicineStock.AssemblyInfoInputs.cache
+D:\Cognizant Practice File\MFPE\Pharmacy Medicine\MedicineStock\MedicineStock\obj\Debug\net5.0\MedicineStock.AssemblyInfo.cs
+D:\Cognizant Practice File\MFPE\Pharmacy Medicine\MedicineStock\MedicineStock\obj\Debug\net5.0\MedicineStock.csproj.CoreCompileInputs.cache
+D:\Cognizant Practice File\MFPE\Pharmacy Medicine\MedicineStock\MedicineStock\obj\Debug\net5.0\MedicineStock.MvcApplicationPartsAssemblyInfo.cs
+D:\Cognizant Practice File\MFPE\Pharmacy Medicine\MedicineStock\MedicineStock\obj\Debug\net5.0\MedicineStock.MvcApplicationPartsAssemblyInfo.cache
+D:\Cognizant Practice File\MFPE\Pharmacy Medicine\MedicineStock\MedicineStock\obj\Debug\net5.0\scopedcss\bundle\MedicineStock.styles.css
+D:\Cognizant Practice File\MFPE\Pharmacy Medicine\MedicineStock\MedicineStock\obj\Debug\net5.0\staticwebassets\MedicineStock.StaticWebAssets.Manifest.cache
+D:\Cognizant Practice File\MFPE\Pharmacy Medicine\MedicineStock\MedicineStock\obj\Debug\net5.0\MedicineStock.RazorTargetAssemblyInfo.cache
+D:\Cognizant Practice File\MFPE\Pharmacy Medicine\MedicineStock\MedicineStock\obj\Debug\net5.0\MedicineStock.csproj.CopyComplete
+D:\Cognizant Practice File\MFPE\Pharmacy Medicine\MedicineStock\MedicineStock\obj\Debug\net5.0\MedicineStock.dll
+D:\Cognizant Practice File\MFPE\Pharmacy Medicine\MedicineStock\MedicineStock\obj\Debug\net5.0\refint\MedicineStock.dll
+D:\Cognizant Practice File\MFPE\Pharmacy Medicine\MedicineStock\MedicineStock\obj\Debug\net5.0\MedicineStock.pdb
+D:\Cognizant Practice File\MFPE\Pharmacy Medicine\MedicineStock\MedicineStock\obj\Debug\net5.0\MedicineStock.genruntimeconfig.cache
+D:\Cognizant Practice File\MFPE\Pharmacy Medicine\MedicineStock\MedicineStock\obj\Debug\net5.0\ref\MedicineStock.dll

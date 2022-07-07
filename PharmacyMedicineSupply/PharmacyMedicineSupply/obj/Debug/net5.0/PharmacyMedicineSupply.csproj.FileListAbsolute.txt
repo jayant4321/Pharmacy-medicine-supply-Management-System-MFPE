@@ -1,0 +1,58 @@
+D:\Cognizant Practice File\MFPE\Pharmacy-medicine-supply-Management-System-MFPE\PharmacyMedicineSupply\PharmacyMedicineSupply\bin\Debug\net5.0\appsettings.Development.json
+D:\Cognizant Practice File\MFPE\Pharmacy-medicine-supply-Management-System-MFPE\PharmacyMedicineSupply\PharmacyMedicineSupply\bin\Debug\net5.0\appsettings.json
+D:\Cognizant Practice File\MFPE\Pharmacy-medicine-supply-Management-System-MFPE\PharmacyMedicineSupply\PharmacyMedicineSupply\bin\Debug\net5.0\PharmacyMedicineSupply.exe
+D:\Cognizant Practice File\MFPE\Pharmacy-medicine-supply-Management-System-MFPE\PharmacyMedicineSupply\PharmacyMedicineSupply\bin\Debug\net5.0\PharmacyMedicineSupply.deps.json
+D:\Cognizant Practice File\MFPE\Pharmacy-medicine-supply-Management-System-MFPE\PharmacyMedicineSupply\PharmacyMedicineSupply\bin\Debug\net5.0\PharmacyMedicineSupply.runtimeconfig.json
+D:\Cognizant Practice File\MFPE\Pharmacy-medicine-supply-Management-System-MFPE\PharmacyMedicineSupply\PharmacyMedicineSupply\bin\Debug\net5.0\PharmacyMedicineSupply.runtimeconfig.dev.json
+D:\Cognizant Practice File\MFPE\Pharmacy-medicine-supply-Management-System-MFPE\PharmacyMedicineSupply\PharmacyMedicineSupply\bin\Debug\net5.0\PharmacyMedicineSupply.dll
+D:\Cognizant Practice File\MFPE\Pharmacy-medicine-supply-Management-System-MFPE\PharmacyMedicineSupply\PharmacyMedicineSupply\bin\Debug\net5.0\PharmacyMedicineSupply.pdb
+D:\Cognizant Practice File\MFPE\Pharmacy-medicine-supply-Management-System-MFPE\PharmacyMedicineSupply\PharmacyMedicineSupply\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Cognizant Practice File\MFPE\Pharmacy-medicine-supply-Management-System-MFPE\PharmacyMedicineSupply\PharmacyMedicineSupply\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Cognizant Practice File\MFPE\Pharmacy-medicine-supply-Management-System-MFPE\PharmacyMedicineSupply\PharmacyMedicineSupply\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Cognizant Practice File\MFPE\Pharmacy-medicine-supply-Management-System-MFPE\PharmacyMedicineSupply\PharmacyMedicineSupply\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Cognizant Practice File\MFPE\Pharmacy-medicine-supply-Management-System-MFPE\PharmacyMedicineSupply\PharmacyMedicineSupply\obj\Debug\net5.0\PharmacyMedicineSupply.csproj.AssemblyReference.cache
+D:\Cognizant Practice File\MFPE\Pharmacy-medicine-supply-Management-System-MFPE\PharmacyMedicineSupply\PharmacyMedicineSupply\obj\Debug\net5.0\PharmacyMedicineSupply.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cognizant Practice File\MFPE\Pharmacy-medicine-supply-Management-System-MFPE\PharmacyMedicineSupply\PharmacyMedicineSupply\obj\Debug\net5.0\PharmacyMedicineSupply.AssemblyInfoInputs.cache
+D:\Cognizant Practice File\MFPE\Pharmacy-medicine-supply-Management-System-MFPE\PharmacyMedicineSupply\PharmacyMedicineSupply\obj\Debug\net5.0\PharmacyMedicineSupply.AssemblyInfo.cs
+D:\Cognizant Practice File\MFPE\Pharmacy-medicine-supply-Management-System-MFPE\PharmacyMedicineSupply\PharmacyMedicineSupply\obj\Debug\net5.0\PharmacyMedicineSupply.csproj.CoreCompileInputs.cache
+D:\Cognizant Practice File\MFPE\Pharmacy-medicine-supply-Management-System-MFPE\PharmacyMedicineSupply\PharmacyMedicineSupply\obj\Debug\net5.0\PharmacyMedicineSupply.MvcApplicationPartsAssemblyInfo.cs
+D:\Cognizant Practice File\MFPE\Pharmacy-medicine-supply-Management-System-MFPE\PharmacyMedicineSupply\PharmacyMedicineSupply\obj\Debug\net5.0\PharmacyMedicineSupply.MvcApplicationPartsAssemblyInfo.cache
+D:\Cognizant Practice File\MFPE\Pharmacy-medicine-supply-Management-System-MFPE\PharmacyMedicineSupply\PharmacyMedicineSupply\obj\Debug\net5.0\scopedcss\bundle\PharmacyMedicineSupply.styles.css
+D:\Cognizant Practice File\MFPE\Pharmacy-medicine-supply-Management-System-MFPE\PharmacyMedicineSupply\PharmacyMedicineSupply\obj\Debug\net5.0\staticwebassets\PharmacyMedicineSupply.StaticWebAssets.Manifest.cache
+D:\Cognizant Practice File\MFPE\Pharmacy-medicine-supply-Management-System-MFPE\PharmacyMedicineSupply\PharmacyMedicineSupply\obj\Debug\net5.0\PharmacyMedicineSupply.RazorTargetAssemblyInfo.cache
+D:\Cognizant Practice File\MFPE\Pharmacy-medicine-supply-Management-System-MFPE\PharmacyMedicineSupply\PharmacyMedicineSupply\obj\Debug\net5.0\PharmacyMedicineSupply.csproj.CopyComplete
+D:\Cognizant Practice File\MFPE\Pharmacy-medicine-supply-Management-System-MFPE\PharmacyMedicineSupply\PharmacyMedicineSupply\obj\Debug\net5.0\PharmacyMedicineSupply.dll
+D:\Cognizant Practice File\MFPE\Pharmacy-medicine-supply-Management-System-MFPE\PharmacyMedicineSupply\PharmacyMedicineSupply\obj\Debug\net5.0\refint\PharmacyMedicineSupply.dll
+D:\Cognizant Practice File\MFPE\Pharmacy-medicine-supply-Management-System-MFPE\PharmacyMedicineSupply\PharmacyMedicineSupply\obj\Debug\net5.0\PharmacyMedicineSupply.pdb
+D:\Cognizant Practice File\MFPE\Pharmacy-medicine-supply-Management-System-MFPE\PharmacyMedicineSupply\PharmacyMedicineSupply\obj\Debug\net5.0\PharmacyMedicineSupply.genruntimeconfig.cache
+D:\Cognizant Practice File\MFPE\Pharmacy-medicine-supply-Management-System-MFPE\PharmacyMedicineSupply\PharmacyMedicineSupply\obj\Debug\net5.0\ref\PharmacyMedicineSupply.dll
+D:\Cognizant Practice File\MFPE\Pharmacy-medicine-supply-Management-System-MFPE\PharmacyMedicineSupply\PharmacyMedicineSupply\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Cognizant Practice File\MFPE\Pharmacy Medicine\PharmacyMedicineSupply\PharmacyMedicineSupply\bin\Debug\net5.0\appsettings.Development.json
+D:\Cognizant Practice File\MFPE\Pharmacy Medicine\PharmacyMedicineSupply\PharmacyMedicineSupply\bin\Debug\net5.0\appsettings.json
+D:\Cognizant Practice File\MFPE\Pharmacy Medicine\PharmacyMedicineSupply\PharmacyMedicineSupply\bin\Debug\net5.0\PharmacyMedicineSupply.exe
+D:\Cognizant Practice File\MFPE\Pharmacy Medicine\PharmacyMedicineSupply\PharmacyMedicineSupply\bin\Debug\net5.0\PharmacyMedicineSupply.deps.json
+D:\Cognizant Practice File\MFPE\Pharmacy Medicine\PharmacyMedicineSupply\PharmacyMedicineSupply\bin\Debug\net5.0\PharmacyMedicineSupply.runtimeconfig.json
+D:\Cognizant Practice File\MFPE\Pharmacy Medicine\PharmacyMedicineSupply\PharmacyMedicineSupply\bin\Debug\net5.0\PharmacyMedicineSupply.runtimeconfig.dev.json
+D:\Cognizant Practice File\MFPE\Pharmacy Medicine\PharmacyMedicineSupply\PharmacyMedicineSupply\bin\Debug\net5.0\PharmacyMedicineSupply.dll
+D:\Cognizant Practice File\MFPE\Pharmacy Medicine\PharmacyMedicineSupply\PharmacyMedicineSupply\bin\Debug\net5.0\PharmacyMedicineSupply.pdb
+D:\Cognizant Practice File\MFPE\Pharmacy Medicine\PharmacyMedicineSupply\PharmacyMedicineSupply\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Cognizant Practice File\MFPE\Pharmacy Medicine\PharmacyMedicineSupply\PharmacyMedicineSupply\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Cognizant Practice File\MFPE\Pharmacy Medicine\PharmacyMedicineSupply\PharmacyMedicineSupply\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Cognizant Practice File\MFPE\Pharmacy Medicine\PharmacyMedicineSupply\PharmacyMedicineSupply\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Cognizant Practice File\MFPE\Pharmacy Medicine\PharmacyMedicineSupply\PharmacyMedicineSupply\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Cognizant Practice File\MFPE\Pharmacy Medicine\PharmacyMedicineSupply\PharmacyMedicineSupply\obj\Debug\net5.0\PharmacyMedicineSupply.csproj.AssemblyReference.cache
+D:\Cognizant Practice File\MFPE\Pharmacy Medicine\PharmacyMedicineSupply\PharmacyMedicineSupply\obj\Debug\net5.0\PharmacyMedicineSupply.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cognizant Practice File\MFPE\Pharmacy Medicine\PharmacyMedicineSupply\PharmacyMedicineSupply\obj\Debug\net5.0\PharmacyMedicineSupply.AssemblyInfoInputs.cache
+D:\Cognizant Practice File\MFPE\Pharmacy Medicine\PharmacyMedicineSupply\PharmacyMedicineSupply\obj\Debug\net5.0\PharmacyMedicineSupply.AssemblyInfo.cs
+D:\Cognizant Practice File\MFPE\Pharmacy Medicine\PharmacyMedicineSupply\PharmacyMedicineSupply\obj\Debug\net5.0\PharmacyMedicineSupply.csproj.CoreCompileInputs.cache
+D:\Cognizant Practice File\MFPE\Pharmacy Medicine\PharmacyMedicineSupply\PharmacyMedicineSupply\obj\Debug\net5.0\PharmacyMedicineSupply.MvcApplicationPartsAssemblyInfo.cs
+D:\Cognizant Practice File\MFPE\Pharmacy Medicine\PharmacyMedicineSupply\PharmacyMedicineSupply\obj\Debug\net5.0\PharmacyMedicineSupply.MvcApplicationPartsAssemblyInfo.cache
+D:\Cognizant Practice File\MFPE\Pharmacy Medicine\PharmacyMedicineSupply\PharmacyMedicineSupply\obj\Debug\net5.0\scopedcss\bundle\PharmacyMedicineSupply.styles.css
+D:\Cognizant Practice File\MFPE\Pharmacy Medicine\PharmacyMedicineSupply\PharmacyMedicineSupply\obj\Debug\net5.0\staticwebassets\PharmacyMedicineSupply.StaticWebAssets.Manifest.cache
+D:\Cognizant Practice File\MFPE\Pharmacy Medicine\PharmacyMedicineSupply\PharmacyMedicineSupply\obj\Debug\net5.0\PharmacyMedicineSupply.RazorTargetAssemblyInfo.cache
+D:\Cognizant Practice File\MFPE\Pharmacy Medicine\PharmacyMedicineSupply\PharmacyMedicineSupply\obj\Debug\net5.0\PharmacyMedicineSupply.csproj.CopyComplete
+D:\Cognizant Practice File\MFPE\Pharmacy Medicine\PharmacyMedicineSupply\PharmacyMedicineSupply\obj\Debug\net5.0\PharmacyMedicineSupply.dll
+D:\Cognizant Practice File\MFPE\Pharmacy Medicine\PharmacyMedicineSupply\PharmacyMedicineSupply\obj\Debug\net5.0\refint\PharmacyMedicineSupply.dll
+D:\Cognizant Practice File\MFPE\Pharmacy Medicine\PharmacyMedicineSupply\PharmacyMedicineSupply\obj\Debug\net5.0\PharmacyMedicineSupply.pdb
+D:\Cognizant Practice File\MFPE\Pharmacy Medicine\PharmacyMedicineSupply\PharmacyMedicineSupply\obj\Debug\net5.0\PharmacyMedicineSupply.genruntimeconfig.cache
+D:\Cognizant Practice File\MFPE\Pharmacy Medicine\PharmacyMedicineSupply\PharmacyMedicineSupply\obj\Debug\net5.0\ref\PharmacyMedicineSupply.dll
