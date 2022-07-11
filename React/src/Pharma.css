@@ -4,9 +4,13 @@
     border-radius: 5px; /* 5px rounded corners */
     padding: 2em;
     margin: 1em;
+    margin-left: auto;
+    margin-right: auto;
   }
   .table {
     padding-top: 2em;
+      margin-left: auto;
+    margin-right: auto;
   }
   .header {
     font-weight: bold;
