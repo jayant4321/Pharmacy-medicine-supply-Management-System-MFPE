@@ -1,4 +1,3 @@
-import AfterHome from './AfterHome';
 import './App.css';
 import Home from './Home';
 import Login from './Login';
@@ -10,7 +9,6 @@ import AuthContext from "./AuthContext.jsx";
 import PageNotFound from './PageNotFound';
 import Logout from './Logout';
 import Main from './Main';
-import Value from './Value';
 function App() {
   const { loggedIn } = useContext(AuthContext);
   return (
