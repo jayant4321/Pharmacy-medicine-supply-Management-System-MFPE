@@ -58,6 +58,11 @@ namespace AuthorizationApi
                 app.UseSwagger();
                 app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "AuthorizationApi v1"));
             }
+            if(env.IsProduction())
+            {
+                app.UseSwagger();
+                app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "AuthorizationApi v1"));
+            }
 
             app.UseHttpsRedirection();
 

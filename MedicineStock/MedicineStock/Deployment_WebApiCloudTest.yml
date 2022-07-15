@@ -1,0 +1,34 @@
+﻿apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: medicinestockservice-deployment
+  labels:
+    app: MedicineStockService
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: MedicineStockService
+  template:
+    metadata:
+      labels:
+        app: MedicineStockService
+    spec:
+      containers:
+      - name: medicalstockdockerizeimage
+        image: myfirstazurecrcog.azurecr.io/medicalstockdockerizeimage:latest
+        ports:
+        - containerPort: 8080
+      imagePullSecrets:
+      - name: webapisvcsecret
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: medicinestockservicesvc
+spec:
+  type: LoadBalancer
+  ports:
+  - port: 80
+  selector:
+    app: MedicineStockService

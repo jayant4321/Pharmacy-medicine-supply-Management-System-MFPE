@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cW7QRewZInpg/2sDTGxTpw/m3ioiMJeW6S6OrxMB742eyu1UQQgODYfyp3Reh4AlGtycGuYOCERms2J1ZMP16Q==",
+  "dgSpecHash": "9/KTjyQNp0dFOXfX2+byEt7xI5tApOfkR/9K9u8UCu3p4EWkXWifiMsFwHKCCQa1ihAzGIDjc3um7DciKGQPCA==",
   "success": true,
-  "projectFilePath": "D:\\Cognizant Practice File\\MFPE\\Pharmacy-medicine-supply-Management-System-MFPE\\AuthorizationApi\\AuthorizationApi\\AuthorizationApi.csproj",
+  "projectFilePath": "D:\\Cognizant Practice File\\MFPE\\Cloud\\AuthorizationApi\\AuthorizationApi\\AuthorizationApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Acer\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\5.0.17\\microsoft.aspnetcore.authentication.jwtbearer.5.0.17.nupkg.sha512",
     "C:\\Users\\Acer\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

@@ -1,0 +1,266 @@
+C:\Users\hp\OneDrive\Desktop\Pharmacy-medicine-supply-management\PharmacyMedicineSupplyportal\obj\Debug\net5.0\PharmacyMedicineSupplyportal.csproj.AssemblyReference.cache
+C:\Users\hp\OneDrive\Desktop\Pharmacy-medicine-supply-management\PharmacyMedicineSupplyportal\obj\Debug\net5.0\PharmacyMedicineSupplyportal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\OneDrive\Desktop\Pharmacy-medicine-supply-management\PharmacyMedicineSupplyportal\obj\Debug\net5.0\PharmacyMedicineSupplyportal.AssemblyInfoInputs.cache
+C:\Users\hp\OneDrive\Desktop\Pharmacy-medicine-supply-management\PharmacyMedicineSupplyportal\obj\Debug\net5.0\PharmacyMedicineSupplyportal.AssemblyInfo.cs
+C:\Users\hp\OneDrive\Desktop\Pharmacy-medicine-supply-management\PharmacyMedicineSupplyportal\obj\Debug\net5.0\PharmacyMedicineSupplyportal.csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive\Desktop\Pharmacy-medicine-supply-management\PharmacyMedicineSupplyportal\obj\Debug\net5.0\PharmacyMedicineSupplyportal.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\hp\OneDrive\Desktop\Pharmacy-medicine-supply-management\PharmacyMedicineSupplyportal\obj\Debug\net5.0\PharmacyMedicineSupplyportal.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hp\OneDrive\Desktop\Pharmacy-medicine-supply-management\PharmacyMedicineSupplyportal\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\hp\OneDrive\Desktop\Pharmacy-medicine-supply-management\PharmacyMedicineSupplyportal\bin\Debug\net5.0\appsettings.json
+C:\Users\hp\OneDrive\Desktop\Pharmacy-medicine-supply-management\PharmacyMedicineSupplyportal\bin\Debug\net5.0\PharmacyMedicineSupplyportal.exe
+C:\Users\hp\OneDrive\Desktop\Pharmacy-medicine-supply-management\PharmacyMedicineSupplyportal\bin\Debug\net5.0\PharmacyMedicineSupplyportal.deps.json
+C:\Users\hp\OneDrive\Desktop\Pharmacy-medicine-supply-management\PharmacyMedicineSupplyportal\bin\Debug\net5.0\PharmacyMedicineSupplyportal.runtimeconfig.json
+C:\Users\hp\OneDrive\Desktop\Pharmacy-medicine-supply-management\PharmacyMedicineSupplyportal\bin\Debug\net5.0\PharmacyMedicineSupplyportal.runtimeconfig.dev.json
+C:\Users\hp\OneDrive\Desktop\Pharmacy-medicine-supply-management\PharmacyMedicineSupplyportal\bin\Debug\net5.0\PharmacyMedicineSupplyportal.dll
+C:\Users\hp\OneDrive\Desktop\Pharmacy-medicine-supply-management\PharmacyMedicineSupplyportal\bin\Debug\net5.0\PharmacyMedicineSupplyportal.pdb
+C:\Users\hp\OneDrive\Desktop\Pharmacy-medicine-supply-management\PharmacyMedicineSupplyportal\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\hp\OneDrive\Desktop\Pharmacy-medicine-supply-management\PharmacyMedicineSupplyportal\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\hp\OneDrive\Desktop\Pharmacy-medicine-supply-management\PharmacyMedicineSupplyportal\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\hp\OneDrive\Desktop\Pharmacy-medicine-supply-management\PharmacyMedicineSupplyportal\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\hp\OneDrive\Desktop\Pharmacy-medicine-supply-management\PharmacyMedicineSupplyportal\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\hp\OneDrive\Desktop\Pharmacy-medicine-supply-management\PharmacyMedicineSupplyportal\obj\Debug\net5.0\scopedcss\bundle\PharmacyMedicineSupplyportal.styles.css
+C:\Users\hp\OneDrive\Desktop\Pharmacy-medicine-supply-management\PharmacyMedicineSupplyportal\obj\Debug\net5.0\staticwebassets\PharmacyMedicineSupplyportal.StaticWebAssets.Manifest.cache
+C:\Users\hp\OneDrive\Desktop\Pharmacy-medicine-supply-management\PharmacyMedicineSupplyportal\obj\Debug\net5.0\PharmacyMedicineSupplyportal.RazorTargetAssemblyInfo.cache
+C:\Users\hp\OneDrive\Desktop\Pharmacy-medicine-supply-management\PharmacyMedicineSupplyportal\obj\Debug\net5.0\PharmacyMedicineSupplyportal.csproj.CopyComplete
+C:\Users\hp\OneDrive\Desktop\Pharmacy-medicine-supply-management\PharmacyMedicineSupplyportal\obj\Debug\net5.0\PharmacyMedicineSupplyportal.dll
+C:\Users\hp\OneDrive\Desktop\Pharmacy-medicine-supply-management\PharmacyMedicineSupplyportal\obj\Debug\net5.0\refint\PharmacyMedicineSupplyportal.dll
+C:\Users\hp\OneDrive\Desktop\Pharmacy-medicine-supply-management\PharmacyMedicineSupplyportal\obj\Debug\net5.0\PharmacyMedicineSupplyportal.pdb
+C:\Users\hp\OneDrive\Desktop\Pharmacy-medicine-supply-management\PharmacyMedicineSupplyportal\obj\Debug\net5.0\PharmacyMedicineSupplyportal.genruntimeconfig.cache
+C:\Users\hp\OneDrive\Desktop\Pharmacy-medicine-supply-management\PharmacyMedicineSupplyportal\obj\Debug\net5.0\ref\PharmacyMedicineSupplyportal.dll
+C:\Users\hp\OneDrive\Desktop\Pharmacy-medicine-supply-management\PharmacyMedicineSupplyportal\bin\Debug\net5.0\Humanizer.dll
+C:\Users\hp\OneDrive\Desktop\Pharmacy-medicine-supply-management\PharmacyMedicineSupplyportal\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\hp\OneDrive\Desktop\Pharmacy-medicine-supply-management\PharmacyMedicineSupplyportal\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\hp\OneDrive\Desktop\Pharmacy-medicine-supply-management\PharmacyMedicineSupplyportal\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\hp\OneDrive\Desktop\Pharmacy-medicine-supply-management\PharmacyMedicineSupplyportal\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\hp\OneDrive\Desktop\Pharmacy-medicine-supply-management\PharmacyMedicineSupplyportal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\hp\OneDrive\Desktop\Pharmacy-medicine-supply-management\PharmacyMedicineSupplyportal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\hp\OneDrive\Desktop\Pharmacy-medicine-supply-management\PharmacyMedicineSupplyportal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\hp\OneDrive\Desktop\Pharmacy-medicine-supply-management\PharmacyMedicineSupplyportal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\hp\OneDrive\Desktop\Pharmacy-medicine-supply-management\PharmacyMedicineSupplyportal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\hp\OneDrive\Desktop\Pharmacy-medicine-supply-management\PharmacyMedicineSupplyportal\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\hp\OneDrive\Desktop\Pharmacy-medicine-supply-management\PharmacyMedicineSupplyportal\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\hp\OneDrive\Desktop\Pharmacy-medicine-supply-management\PharmacyMedicineSupplyportal\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\hp\OneDrive\Desktop\Pharmacy-medicine-supply-management\PharmacyMedicineSupplyportal\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\hp\OneDrive\Desktop\Pharmacy-medicine-supply-management\PharmacyMedicineSupplyportal\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\hp\OneDrive\Desktop\Pharmacy-medicine-supply-management\PharmacyMedicineSupplyportal\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\hp\OneDrive\Desktop\Pharmacy-medicine-supply-management\PharmacyMedicineSupplyportal\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\hp\OneDrive\Desktop\Pharmacy-medicine-supply-management\PharmacyMedicineSupplyportal\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\hp\OneDrive\Desktop\Pharmacy-medicine-supply-management\PharmacyMedicineSupplyportal\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\hp\OneDrive\Desktop\Pharmacy-medicine-supply-management\PharmacyMedicineSupplyportal\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\hp\OneDrive\Desktop\Pharmacy-medicine-supply-management\PharmacyMedicineSupplyportal\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\hp\OneDrive\Desktop\Pharmacy-medicine-supply-management\PharmacyMedicineSupplyportal\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\hp\OneDrive\Desktop\Pharmacy-medicine-supply-management\PharmacyMedicineSupplyportal\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\hp\OneDrive\Desktop\Pharmacy-medicine-supply-management\PharmacyMedicineSupplyportal\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hp\OneDrive\Desktop\Pharmacy-medicine-supply-management\PharmacyMedicineSupplyportal\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\hp\OneDrive\Desktop\Pharmacy-medicine-supply-management\PharmacyMedicineSupplyportal\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\hp\OneDrive\Desktop\Pharmacy-medicine-supply-management\PharmacyMedicineSupplyportal\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hp\OneDrive\Desktop\Pharmacy-medicine-supply-management\PharmacyMedicineSupplyportal\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\hp\OneDrive\Desktop\Pharmacy-medicine-supply-management\PharmacyMedicineSupplyportal\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hp\OneDrive\Desktop\Pharmacy-medicine-supply-management\PharmacyMedicineSupplyportal\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\hp\OneDrive\Desktop\Pharmacy-medicine-supply-management\PharmacyMedicineSupplyportal\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hp\OneDrive\Desktop\Pharmacy-medicine-supply-management\PharmacyMedicineSupplyportal\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\hp\OneDrive\Desktop\Pharmacy-medicine-supply-management\PharmacyMedicineSupplyportal\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hp\OneDrive\Desktop\Pharmacy-medicine-supply-management\PharmacyMedicineSupplyportal\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\hp\OneDrive\Desktop\Pharmacy-medicine-supply-management\PharmacyMedicineSupplyportal\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\hp\OneDrive\Desktop\Pharmacy-medicine-supply-management\PharmacyMedicineSupplyportal\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Cognizant Practice File\MFPE\sanket\Pharmacy-medicine-supply-Management-System-MFPE-sanket\PharmacyMedicineSupplyportal\bin\Debug\net5.0\appsettings.Development.json
+D:\Cognizant Practice File\MFPE\sanket\Pharmacy-medicine-supply-Management-System-MFPE-sanket\PharmacyMedicineSupplyportal\bin\Debug\net5.0\appsettings.json
+D:\Cognizant Practice File\MFPE\sanket\Pharmacy-medicine-supply-Management-System-MFPE-sanket\PharmacyMedicineSupplyportal\bin\Debug\net5.0\PharmacyMedicineSupplyportal.exe
+D:\Cognizant Practice File\MFPE\sanket\Pharmacy-medicine-supply-Management-System-MFPE-sanket\PharmacyMedicineSupplyportal\bin\Debug\net5.0\PharmacyMedicineSupplyportal.deps.json
+D:\Cognizant Practice File\MFPE\sanket\Pharmacy-medicine-supply-Management-System-MFPE-sanket\PharmacyMedicineSupplyportal\bin\Debug\net5.0\PharmacyMedicineSupplyportal.runtimeconfig.json
+D:\Cognizant Practice File\MFPE\sanket\Pharmacy-medicine-supply-Management-System-MFPE-sanket\PharmacyMedicineSupplyportal\bin\Debug\net5.0\PharmacyMedicineSupplyportal.runtimeconfig.dev.json
+D:\Cognizant Practice File\MFPE\sanket\Pharmacy-medicine-supply-Management-System-MFPE-sanket\PharmacyMedicineSupplyportal\bin\Debug\net5.0\PharmacyMedicineSupplyportal.dll
+D:\Cognizant Practice File\MFPE\sanket\Pharmacy-medicine-supply-Management-System-MFPE-sanket\PharmacyMedicineSupplyportal\bin\Debug\net5.0\PharmacyMedicineSupplyportal.pdb
+D:\Cognizant Practice File\MFPE\sanket\Pharmacy-medicine-supply-Management-System-MFPE-sanket\PharmacyMedicineSupplyportal\bin\Debug\net5.0\Humanizer.dll
+D:\Cognizant Practice File\MFPE\sanket\Pharmacy-medicine-supply-Management-System-MFPE-sanket\PharmacyMedicineSupplyportal\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Cognizant Practice File\MFPE\sanket\Pharmacy-medicine-supply-Management-System-MFPE-sanket\PharmacyMedicineSupplyportal\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Cognizant Practice File\MFPE\sanket\Pharmacy-medicine-supply-Management-System-MFPE-sanket\PharmacyMedicineSupplyportal\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Cognizant Practice File\MFPE\sanket\Pharmacy-medicine-supply-Management-System-MFPE-sanket\PharmacyMedicineSupplyportal\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Cognizant Practice File\MFPE\sanket\Pharmacy-medicine-supply-Management-System-MFPE-sanket\PharmacyMedicineSupplyportal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Cognizant Practice File\MFPE\sanket\Pharmacy-medicine-supply-Management-System-MFPE-sanket\PharmacyMedicineSupplyportal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Cognizant Practice File\MFPE\sanket\Pharmacy-medicine-supply-Management-System-MFPE-sanket\PharmacyMedicineSupplyportal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Cognizant Practice File\MFPE\sanket\Pharmacy-medicine-supply-Management-System-MFPE-sanket\PharmacyMedicineSupplyportal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Cognizant Practice File\MFPE\sanket\Pharmacy-medicine-supply-Management-System-MFPE-sanket\PharmacyMedicineSupplyportal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Cognizant Practice File\MFPE\sanket\Pharmacy-medicine-supply-Management-System-MFPE-sanket\PharmacyMedicineSupplyportal\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Cognizant Practice File\MFPE\sanket\Pharmacy-medicine-supply-Management-System-MFPE-sanket\PharmacyMedicineSupplyportal\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\Cognizant Practice File\MFPE\sanket\Pharmacy-medicine-supply-Management-System-MFPE-sanket\PharmacyMedicineSupplyportal\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Cognizant Practice File\MFPE\sanket\Pharmacy-medicine-supply-Management-System-MFPE-sanket\PharmacyMedicineSupplyportal\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Cognizant Practice File\MFPE\sanket\Pharmacy-medicine-supply-Management-System-MFPE-sanket\PharmacyMedicineSupplyportal\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Cognizant Practice File\MFPE\sanket\Pharmacy-medicine-supply-Management-System-MFPE-sanket\PharmacyMedicineSupplyportal\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Cognizant Practice File\MFPE\sanket\Pharmacy-medicine-supply-Management-System-MFPE-sanket\PharmacyMedicineSupplyportal\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Cognizant Practice File\MFPE\sanket\Pharmacy-medicine-supply-Management-System-MFPE-sanket\PharmacyMedicineSupplyportal\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Cognizant Practice File\MFPE\sanket\Pharmacy-medicine-supply-Management-System-MFPE-sanket\PharmacyMedicineSupplyportal\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Cognizant Practice File\MFPE\sanket\Pharmacy-medicine-supply-Management-System-MFPE-sanket\PharmacyMedicineSupplyportal\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Cognizant Practice File\MFPE\sanket\Pharmacy-medicine-supply-Management-System-MFPE-sanket\PharmacyMedicineSupplyportal\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Cognizant Practice File\MFPE\sanket\Pharmacy-medicine-supply-Management-System-MFPE-sanket\PharmacyMedicineSupplyportal\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Cognizant Practice File\MFPE\sanket\Pharmacy-medicine-supply-Management-System-MFPE-sanket\PharmacyMedicineSupplyportal\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Cognizant Practice File\MFPE\sanket\Pharmacy-medicine-supply-Management-System-MFPE-sanket\PharmacyMedicineSupplyportal\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Cognizant Practice File\MFPE\sanket\Pharmacy-medicine-supply-Management-System-MFPE-sanket\PharmacyMedicineSupplyportal\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Cognizant Practice File\MFPE\sanket\Pharmacy-medicine-supply-Management-System-MFPE-sanket\PharmacyMedicineSupplyportal\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Cognizant Practice File\MFPE\sanket\Pharmacy-medicine-supply-Management-System-MFPE-sanket\PharmacyMedicineSupplyportal\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Cognizant Practice File\MFPE\sanket\Pharmacy-medicine-supply-Management-System-MFPE-sanket\PharmacyMedicineSupplyportal\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Cognizant Practice File\MFPE\sanket\Pharmacy-medicine-supply-Management-System-MFPE-sanket\PharmacyMedicineSupplyportal\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Cognizant Practice File\MFPE\sanket\Pharmacy-medicine-supply-Management-System-MFPE-sanket\PharmacyMedicineSupplyportal\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Cognizant Practice File\MFPE\sanket\Pharmacy-medicine-supply-Management-System-MFPE-sanket\PharmacyMedicineSupplyportal\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Cognizant Practice File\MFPE\sanket\Pharmacy-medicine-supply-Management-System-MFPE-sanket\PharmacyMedicineSupplyportal\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Cognizant Practice File\MFPE\sanket\Pharmacy-medicine-supply-Management-System-MFPE-sanket\PharmacyMedicineSupplyportal\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Cognizant Practice File\MFPE\sanket\Pharmacy-medicine-supply-Management-System-MFPE-sanket\PharmacyMedicineSupplyportal\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Cognizant Practice File\MFPE\sanket\Pharmacy-medicine-supply-Management-System-MFPE-sanket\PharmacyMedicineSupplyportal\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Cognizant Practice File\MFPE\sanket\Pharmacy-medicine-supply-Management-System-MFPE-sanket\PharmacyMedicineSupplyportal\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Cognizant Practice File\MFPE\sanket\Pharmacy-medicine-supply-Management-System-MFPE-sanket\PharmacyMedicineSupplyportal\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Cognizant Practice File\MFPE\sanket\Pharmacy-medicine-supply-Management-System-MFPE-sanket\PharmacyMedicineSupplyportal\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Cognizant Practice File\MFPE\sanket\Pharmacy-medicine-supply-Management-System-MFPE-sanket\PharmacyMedicineSupplyportal\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Cognizant Practice File\MFPE\sanket\Pharmacy-medicine-supply-Management-System-MFPE-sanket\PharmacyMedicineSupplyportal\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Cognizant Practice File\MFPE\sanket\Pharmacy-medicine-supply-Management-System-MFPE-sanket\PharmacyMedicineSupplyportal\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Cognizant Practice File\MFPE\sanket\Pharmacy-medicine-supply-Management-System-MFPE-sanket\PharmacyMedicineSupplyportal\obj\Debug\net5.0\PharmacyMedicineSupplyportal.csproj.AssemblyReference.cache
+D:\Cognizant Practice File\MFPE\sanket\Pharmacy-medicine-supply-Management-System-MFPE-sanket\PharmacyMedicineSupplyportal\obj\Debug\net5.0\PharmacyMedicineSupplyportal.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cognizant Practice File\MFPE\sanket\Pharmacy-medicine-supply-Management-System-MFPE-sanket\PharmacyMedicineSupplyportal\obj\Debug\net5.0\PharmacyMedicineSupplyportal.AssemblyInfoInputs.cache
+D:\Cognizant Practice File\MFPE\sanket\Pharmacy-medicine-supply-Management-System-MFPE-sanket\PharmacyMedicineSupplyportal\obj\Debug\net5.0\PharmacyMedicineSupplyportal.AssemblyInfo.cs
+D:\Cognizant Practice File\MFPE\sanket\Pharmacy-medicine-supply-Management-System-MFPE-sanket\PharmacyMedicineSupplyportal\obj\Debug\net5.0\PharmacyMedicineSupplyportal.csproj.CoreCompileInputs.cache
+D:\Cognizant Practice File\MFPE\sanket\Pharmacy-medicine-supply-Management-System-MFPE-sanket\PharmacyMedicineSupplyportal\obj\Debug\net5.0\PharmacyMedicineSupplyportal.MvcApplicationPartsAssemblyInfo.cs
+D:\Cognizant Practice File\MFPE\sanket\Pharmacy-medicine-supply-Management-System-MFPE-sanket\PharmacyMedicineSupplyportal\obj\Debug\net5.0\PharmacyMedicineSupplyportal.MvcApplicationPartsAssemblyInfo.cache
+D:\Cognizant Practice File\MFPE\sanket\Pharmacy-medicine-supply-Management-System-MFPE-sanket\PharmacyMedicineSupplyportal\obj\Debug\net5.0\scopedcss\bundle\PharmacyMedicineSupplyportal.styles.css
+D:\Cognizant Practice File\MFPE\sanket\Pharmacy-medicine-supply-Management-System-MFPE-sanket\PharmacyMedicineSupplyportal\obj\Debug\net5.0\staticwebassets\PharmacyMedicineSupplyportal.StaticWebAssets.Manifest.cache
+D:\Cognizant Practice File\MFPE\sanket\Pharmacy-medicine-supply-Management-System-MFPE-sanket\PharmacyMedicineSupplyportal\obj\Debug\net5.0\PharmacyMedicineSupplyportal.RazorTargetAssemblyInfo.cache
+D:\Cognizant Practice File\MFPE\sanket\Pharmacy-medicine-supply-Management-System-MFPE-sanket\PharmacyMedicineSupplyportal\obj\Debug\net5.0\PharmacyMedicineSupplyportal.csproj.CopyComplete
+D:\Cognizant Practice File\MFPE\sanket\Pharmacy-medicine-supply-Management-System-MFPE-sanket\PharmacyMedicineSupplyportal\obj\Debug\net5.0\PharmacyMedicineSupplyportal.dll
+D:\Cognizant Practice File\MFPE\sanket\Pharmacy-medicine-supply-Management-System-MFPE-sanket\PharmacyMedicineSupplyportal\obj\Debug\net5.0\refint\PharmacyMedicineSupplyportal.dll
+D:\Cognizant Practice File\MFPE\sanket\Pharmacy-medicine-supply-Management-System-MFPE-sanket\PharmacyMedicineSupplyportal\obj\Debug\net5.0\PharmacyMedicineSupplyportal.pdb
+D:\Cognizant Practice File\MFPE\sanket\Pharmacy-medicine-supply-Management-System-MFPE-sanket\PharmacyMedicineSupplyportal\obj\Debug\net5.0\PharmacyMedicineSupplyportal.genruntimeconfig.cache
+D:\Cognizant Practice File\MFPE\sanket\Pharmacy-medicine-supply-Management-System-MFPE-sanket\PharmacyMedicineSupplyportal\obj\Debug\net5.0\ref\PharmacyMedicineSupplyportal.dll
+D:\Cognizant Practice File\MFPE\sanket\Pharmacy-medicine-supply-Management-System-MFPE-sanket\PharmacyMedicineSupplyportal\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Cognizant Practice File\MFPE\sanket\Pharmacy-medicine-supply-Management-System-MFPE-sanket\PharmacyMedicineSupplyportal\bin\Debug\net5.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Cognizant Practice File\MFPE\Pharmacy Medicine\PharmacyMedicineSupplyportal\bin\Debug\net5.0\appsettings.Development.json
+D:\Cognizant Practice File\MFPE\Pharmacy Medicine\PharmacyMedicineSupplyportal\bin\Debug\net5.0\appsettings.json
+D:\Cognizant Practice File\MFPE\Pharmacy Medicine\PharmacyMedicineSupplyportal\bin\Debug\net5.0\PharmacyMedicineSupplyportal.exe
+D:\Cognizant Practice File\MFPE\Pharmacy Medicine\PharmacyMedicineSupplyportal\bin\Debug\net5.0\PharmacyMedicineSupplyportal.deps.json
+D:\Cognizant Practice File\MFPE\Pharmacy Medicine\PharmacyMedicineSupplyportal\bin\Debug\net5.0\PharmacyMedicineSupplyportal.runtimeconfig.json
+D:\Cognizant Practice File\MFPE\Pharmacy Medicine\PharmacyMedicineSupplyportal\bin\Debug\net5.0\PharmacyMedicineSupplyportal.runtimeconfig.dev.json
+D:\Cognizant Practice File\MFPE\Pharmacy Medicine\PharmacyMedicineSupplyportal\bin\Debug\net5.0\PharmacyMedicineSupplyportal.dll
+D:\Cognizant Practice File\MFPE\Pharmacy Medicine\PharmacyMedicineSupplyportal\bin\Debug\net5.0\PharmacyMedicineSupplyportal.pdb
+D:\Cognizant Practice File\MFPE\Pharmacy Medicine\PharmacyMedicineSupplyportal\bin\Debug\net5.0\Humanizer.dll
+D:\Cognizant Practice File\MFPE\Pharmacy Medicine\PharmacyMedicineSupplyportal\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Cognizant Practice File\MFPE\Pharmacy Medicine\PharmacyMedicineSupplyportal\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Cognizant Practice File\MFPE\Pharmacy Medicine\PharmacyMedicineSupplyportal\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Cognizant Practice File\MFPE\Pharmacy Medicine\PharmacyMedicineSupplyportal\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Cognizant Practice File\MFPE\Pharmacy Medicine\PharmacyMedicineSupplyportal\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Cognizant Practice File\MFPE\Pharmacy Medicine\PharmacyMedicineSupplyportal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Cognizant Practice File\MFPE\Pharmacy Medicine\PharmacyMedicineSupplyportal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Cognizant Practice File\MFPE\Pharmacy Medicine\PharmacyMedicineSupplyportal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Cognizant Practice File\MFPE\Pharmacy Medicine\PharmacyMedicineSupplyportal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Cognizant Practice File\MFPE\Pharmacy Medicine\PharmacyMedicineSupplyportal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Cognizant Practice File\MFPE\Pharmacy Medicine\PharmacyMedicineSupplyportal\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Cognizant Practice File\MFPE\Pharmacy Medicine\PharmacyMedicineSupplyportal\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\Cognizant Practice File\MFPE\Pharmacy Medicine\PharmacyMedicineSupplyportal\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Cognizant Practice File\MFPE\Pharmacy Medicine\PharmacyMedicineSupplyportal\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Cognizant Practice File\MFPE\Pharmacy Medicine\PharmacyMedicineSupplyportal\bin\Debug\net5.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Cognizant Practice File\MFPE\Pharmacy Medicine\PharmacyMedicineSupplyportal\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Cognizant Practice File\MFPE\Pharmacy Medicine\PharmacyMedicineSupplyportal\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Cognizant Practice File\MFPE\Pharmacy Medicine\PharmacyMedicineSupplyportal\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Cognizant Practice File\MFPE\Pharmacy Medicine\PharmacyMedicineSupplyportal\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Cognizant Practice File\MFPE\Pharmacy Medicine\PharmacyMedicineSupplyportal\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Cognizant Practice File\MFPE\Pharmacy Medicine\PharmacyMedicineSupplyportal\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Cognizant Practice File\MFPE\Pharmacy Medicine\PharmacyMedicineSupplyportal\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Cognizant Practice File\MFPE\Pharmacy Medicine\PharmacyMedicineSupplyportal\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Cognizant Practice File\MFPE\Pharmacy Medicine\PharmacyMedicineSupplyportal\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Cognizant Practice File\MFPE\Pharmacy Medicine\PharmacyMedicineSupplyportal\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Cognizant Practice File\MFPE\Pharmacy Medicine\PharmacyMedicineSupplyportal\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Cognizant Practice File\MFPE\Pharmacy Medicine\PharmacyMedicineSupplyportal\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Cognizant Practice File\MFPE\Pharmacy Medicine\PharmacyMedicineSupplyportal\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Cognizant Practice File\MFPE\Pharmacy Medicine\PharmacyMedicineSupplyportal\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Cognizant Practice File\MFPE\Pharmacy Medicine\PharmacyMedicineSupplyportal\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Cognizant Practice File\MFPE\Pharmacy Medicine\PharmacyMedicineSupplyportal\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Cognizant Practice File\MFPE\Pharmacy Medicine\PharmacyMedicineSupplyportal\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Cognizant Practice File\MFPE\Pharmacy Medicine\PharmacyMedicineSupplyportal\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Cognizant Practice File\MFPE\Pharmacy Medicine\PharmacyMedicineSupplyportal\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Cognizant Practice File\MFPE\Pharmacy Medicine\PharmacyMedicineSupplyportal\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Cognizant Practice File\MFPE\Pharmacy Medicine\PharmacyMedicineSupplyportal\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Cognizant Practice File\MFPE\Pharmacy Medicine\PharmacyMedicineSupplyportal\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Cognizant Practice File\MFPE\Pharmacy Medicine\PharmacyMedicineSupplyportal\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Cognizant Practice File\MFPE\Pharmacy Medicine\PharmacyMedicineSupplyportal\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Cognizant Practice File\MFPE\Pharmacy Medicine\PharmacyMedicineSupplyportal\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Cognizant Practice File\MFPE\Pharmacy Medicine\PharmacyMedicineSupplyportal\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Cognizant Practice File\MFPE\Pharmacy Medicine\PharmacyMedicineSupplyportal\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Cognizant Practice File\MFPE\Pharmacy Medicine\PharmacyMedicineSupplyportal\obj\Debug\net5.0\PharmacyMedicineSupplyportal.csproj.AssemblyReference.cache
+D:\Cognizant Practice File\MFPE\Pharmacy Medicine\PharmacyMedicineSupplyportal\obj\Debug\net5.0\PharmacyMedicineSupplyportal.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cognizant Practice File\MFPE\Pharmacy Medicine\PharmacyMedicineSupplyportal\obj\Debug\net5.0\PharmacyMedicineSupplyportal.AssemblyInfoInputs.cache
+D:\Cognizant Practice File\MFPE\Pharmacy Medicine\PharmacyMedicineSupplyportal\obj\Debug\net5.0\PharmacyMedicineSupplyportal.AssemblyInfo.cs
+D:\Cognizant Practice File\MFPE\Pharmacy Medicine\PharmacyMedicineSupplyportal\obj\Debug\net5.0\PharmacyMedicineSupplyportal.csproj.CoreCompileInputs.cache
+D:\Cognizant Practice File\MFPE\Pharmacy Medicine\PharmacyMedicineSupplyportal\obj\Debug\net5.0\PharmacyMedicineSupplyportal.MvcApplicationPartsAssemblyInfo.cs
+D:\Cognizant Practice File\MFPE\Pharmacy Medicine\PharmacyMedicineSupplyportal\obj\Debug\net5.0\PharmacyMedicineSupplyportal.MvcApplicationPartsAssemblyInfo.cache
+D:\Cognizant Practice File\MFPE\Pharmacy Medicine\PharmacyMedicineSupplyportal\obj\Debug\net5.0\scopedcss\bundle\PharmacyMedicineSupplyportal.styles.css
+D:\Cognizant Practice File\MFPE\Pharmacy Medicine\PharmacyMedicineSupplyportal\obj\Debug\net5.0\staticwebassets\PharmacyMedicineSupplyportal.StaticWebAssets.Manifest.cache
+D:\Cognizant Practice File\MFPE\Pharmacy Medicine\PharmacyMedicineSupplyportal\obj\Debug\net5.0\PharmacyMedicineSupplyportal.RazorTargetAssemblyInfo.cache
+D:\Cognizant Practice File\MFPE\Pharmacy Medicine\PharmacyMedicineSupplyportal\obj\Debug\net5.0\PharmacyMedicineSupplyportal.csproj.CopyComplete
+D:\Cognizant Practice File\MFPE\Pharmacy Medicine\PharmacyMedicineSupplyportal\obj\Debug\net5.0\PharmacyMedicineSupplyportal.dll
+D:\Cognizant Practice File\MFPE\Pharmacy Medicine\PharmacyMedicineSupplyportal\obj\Debug\net5.0\refint\PharmacyMedicineSupplyportal.dll
+D:\Cognizant Practice File\MFPE\Pharmacy Medicine\PharmacyMedicineSupplyportal\obj\Debug\net5.0\PharmacyMedicineSupplyportal.pdb
+D:\Cognizant Practice File\MFPE\Pharmacy Medicine\PharmacyMedicineSupplyportal\obj\Debug\net5.0\PharmacyMedicineSupplyportal.genruntimeconfig.cache
+D:\Cognizant Practice File\MFPE\Pharmacy Medicine\PharmacyMedicineSupplyportal\obj\Debug\net5.0\ref\PharmacyMedicineSupplyportal.dll
+D:\Cognizant Practice File\MFPE\Cloud\PharmacyMedicineSupplyportal\bin\Debug\net5.0\appsettings.Development.json
+D:\Cognizant Practice File\MFPE\Cloud\PharmacyMedicineSupplyportal\bin\Debug\net5.0\appsettings.json
+D:\Cognizant Practice File\MFPE\Cloud\PharmacyMedicineSupplyportal\bin\Debug\net5.0\PharmacyMedicineSupplyportal.exe
+D:\Cognizant Practice File\MFPE\Cloud\PharmacyMedicineSupplyportal\bin\Debug\net5.0\PharmacyMedicineSupplyportal.deps.json
+D:\Cognizant Practice File\MFPE\Cloud\PharmacyMedicineSupplyportal\bin\Debug\net5.0\PharmacyMedicineSupplyportal.runtimeconfig.json
+D:\Cognizant Practice File\MFPE\Cloud\PharmacyMedicineSupplyportal\bin\Debug\net5.0\PharmacyMedicineSupplyportal.runtimeconfig.dev.json
+D:\Cognizant Practice File\MFPE\Cloud\PharmacyMedicineSupplyportal\bin\Debug\net5.0\PharmacyMedicineSupplyportal.dll
+D:\Cognizant Practice File\MFPE\Cloud\PharmacyMedicineSupplyportal\bin\Debug\net5.0\PharmacyMedicineSupplyportal.pdb
+D:\Cognizant Practice File\MFPE\Cloud\PharmacyMedicineSupplyportal\bin\Debug\net5.0\Humanizer.dll
+D:\Cognizant Practice File\MFPE\Cloud\PharmacyMedicineSupplyportal\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Cognizant Practice File\MFPE\Cloud\PharmacyMedicineSupplyportal\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Cognizant Practice File\MFPE\Cloud\PharmacyMedicineSupplyportal\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Cognizant Practice File\MFPE\Cloud\PharmacyMedicineSupplyportal\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Cognizant Practice File\MFPE\Cloud\PharmacyMedicineSupplyportal\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Cognizant Practice File\MFPE\Cloud\PharmacyMedicineSupplyportal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Cognizant Practice File\MFPE\Cloud\PharmacyMedicineSupplyportal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Cognizant Practice File\MFPE\Cloud\PharmacyMedicineSupplyportal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Cognizant Practice File\MFPE\Cloud\PharmacyMedicineSupplyportal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Cognizant Practice File\MFPE\Cloud\PharmacyMedicineSupplyportal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Cognizant Practice File\MFPE\Cloud\PharmacyMedicineSupplyportal\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Cognizant Practice File\MFPE\Cloud\PharmacyMedicineSupplyportal\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\Cognizant Practice File\MFPE\Cloud\PharmacyMedicineSupplyportal\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Cognizant Practice File\MFPE\Cloud\PharmacyMedicineSupplyportal\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Cognizant Practice File\MFPE\Cloud\PharmacyMedicineSupplyportal\bin\Debug\net5.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Cognizant Practice File\MFPE\Cloud\PharmacyMedicineSupplyportal\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Cognizant Practice File\MFPE\Cloud\PharmacyMedicineSupplyportal\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Cognizant Practice File\MFPE\Cloud\PharmacyMedicineSupplyportal\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Cognizant Practice File\MFPE\Cloud\PharmacyMedicineSupplyportal\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Cognizant Practice File\MFPE\Cloud\PharmacyMedicineSupplyportal\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Cognizant Practice File\MFPE\Cloud\PharmacyMedicineSupplyportal\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Cognizant Practice File\MFPE\Cloud\PharmacyMedicineSupplyportal\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Cognizant Practice File\MFPE\Cloud\PharmacyMedicineSupplyportal\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Cognizant Practice File\MFPE\Cloud\PharmacyMedicineSupplyportal\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Cognizant Practice File\MFPE\Cloud\PharmacyMedicineSupplyportal\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Cognizant Practice File\MFPE\Cloud\PharmacyMedicineSupplyportal\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Cognizant Practice File\MFPE\Cloud\PharmacyMedicineSupplyportal\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Cognizant Practice File\MFPE\Cloud\PharmacyMedicineSupplyportal\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Cognizant Practice File\MFPE\Cloud\PharmacyMedicineSupplyportal\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Cognizant Practice File\MFPE\Cloud\PharmacyMedicineSupplyportal\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Cognizant Practice File\MFPE\Cloud\PharmacyMedicineSupplyportal\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Cognizant Practice File\MFPE\Cloud\PharmacyMedicineSupplyportal\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Cognizant Practice File\MFPE\Cloud\PharmacyMedicineSupplyportal\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Cognizant Practice File\MFPE\Cloud\PharmacyMedicineSupplyportal\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Cognizant Practice File\MFPE\Cloud\PharmacyMedicineSupplyportal\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Cognizant Practice File\MFPE\Cloud\PharmacyMedicineSupplyportal\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Cognizant Practice File\MFPE\Cloud\PharmacyMedicineSupplyportal\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Cognizant Practice File\MFPE\Cloud\PharmacyMedicineSupplyportal\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Cognizant Practice File\MFPE\Cloud\PharmacyMedicineSupplyportal\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Cognizant Practice File\MFPE\Cloud\PharmacyMedicineSupplyportal\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Cognizant Practice File\MFPE\Cloud\PharmacyMedicineSupplyportal\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Cognizant Practice File\MFPE\Cloud\PharmacyMedicineSupplyportal\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Cognizant Practice File\MFPE\Cloud\PharmacyMedicineSupplyportal\obj\Debug\net5.0\PharmacyMedicineSupplyportal.csproj.AssemblyReference.cache
+D:\Cognizant Practice File\MFPE\Cloud\PharmacyMedicineSupplyportal\obj\Debug\net5.0\PharmacyMedicineSupplyportal.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cognizant Practice File\MFPE\Cloud\PharmacyMedicineSupplyportal\obj\Debug\net5.0\PharmacyMedicineSupplyportal.AssemblyInfoInputs.cache
+D:\Cognizant Practice File\MFPE\Cloud\PharmacyMedicineSupplyportal\obj\Debug\net5.0\PharmacyMedicineSupplyportal.AssemblyInfo.cs
+D:\Cognizant Practice File\MFPE\Cloud\PharmacyMedicineSupplyportal\obj\Debug\net5.0\PharmacyMedicineSupplyportal.csproj.CoreCompileInputs.cache
+D:\Cognizant Practice File\MFPE\Cloud\PharmacyMedicineSupplyportal\obj\Debug\net5.0\PharmacyMedicineSupplyportal.MvcApplicationPartsAssemblyInfo.cs
+D:\Cognizant Practice File\MFPE\Cloud\PharmacyMedicineSupplyportal\obj\Debug\net5.0\PharmacyMedicineSupplyportal.MvcApplicationPartsAssemblyInfo.cache
+D:\Cognizant Practice File\MFPE\Cloud\PharmacyMedicineSupplyportal\obj\Debug\net5.0\scopedcss\bundle\PharmacyMedicineSupplyportal.styles.css
+D:\Cognizant Practice File\MFPE\Cloud\PharmacyMedicineSupplyportal\obj\Debug\net5.0\staticwebassets\PharmacyMedicineSupplyportal.StaticWebAssets.Manifest.cache
+D:\Cognizant Practice File\MFPE\Cloud\PharmacyMedicineSupplyportal\obj\Debug\net5.0\PharmacyMedicineSupplyportal.RazorTargetAssemblyInfo.cache
+D:\Cognizant Practice File\MFPE\Cloud\PharmacyMedicineSupplyportal\obj\Debug\net5.0\PharmacyMedicineSupplyportal.csproj.CopyComplete
+D:\Cognizant Practice File\MFPE\Cloud\PharmacyMedicineSupplyportal\obj\Debug\net5.0\PharmacyMedicineSupplyportal.dll
+D:\Cognizant Practice File\MFPE\Cloud\PharmacyMedicineSupplyportal\obj\Debug\net5.0\refint\PharmacyMedicineSupplyportal.dll
+D:\Cognizant Practice File\MFPE\Cloud\PharmacyMedicineSupplyportal\obj\Debug\net5.0\PharmacyMedicineSupplyportal.pdb
+D:\Cognizant Practice File\MFPE\Cloud\PharmacyMedicineSupplyportal\obj\Debug\net5.0\PharmacyMedicineSupplyportal.genruntimeconfig.cache
+D:\Cognizant Practice File\MFPE\Cloud\PharmacyMedicineSupplyportal\obj\Debug\net5.0\ref\PharmacyMedicineSupplyportal.dll

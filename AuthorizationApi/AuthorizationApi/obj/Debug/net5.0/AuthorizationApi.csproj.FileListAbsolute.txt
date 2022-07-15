@@ -34,3 +34,39 @@ D:\Cognizant Practice File\MFPE\Pharmacy-medicine-supply-Management-System-MFPE\
 D:\Cognizant Practice File\MFPE\Pharmacy-medicine-supply-Management-System-MFPE\AuthorizationApi\AuthorizationApi\obj\Debug\net5.0\AuthorizationApi.pdb
 D:\Cognizant Practice File\MFPE\Pharmacy-medicine-supply-Management-System-MFPE\AuthorizationApi\AuthorizationApi\obj\Debug\net5.0\AuthorizationApi.genruntimeconfig.cache
 D:\Cognizant Practice File\MFPE\Pharmacy-medicine-supply-Management-System-MFPE\AuthorizationApi\AuthorizationApi\obj\Debug\net5.0\ref\AuthorizationApi.dll
+D:\Cognizant Practice File\MFPE\Pharmacy Medicine\AuthorizationApi\AuthorizationApi\bin\Debug\net5.0\appsettings.Development.json
+D:\Cognizant Practice File\MFPE\Pharmacy Medicine\AuthorizationApi\AuthorizationApi\bin\Debug\net5.0\appsettings.json
+D:\Cognizant Practice File\MFPE\Pharmacy Medicine\AuthorizationApi\AuthorizationApi\bin\Debug\net5.0\AuthorizationApi.exe
+D:\Cognizant Practice File\MFPE\Pharmacy Medicine\AuthorizationApi\AuthorizationApi\bin\Debug\net5.0\AuthorizationApi.deps.json
+D:\Cognizant Practice File\MFPE\Pharmacy Medicine\AuthorizationApi\AuthorizationApi\bin\Debug\net5.0\AuthorizationApi.runtimeconfig.json
+D:\Cognizant Practice File\MFPE\Pharmacy Medicine\AuthorizationApi\AuthorizationApi\bin\Debug\net5.0\AuthorizationApi.runtimeconfig.dev.json
+D:\Cognizant Practice File\MFPE\Pharmacy Medicine\AuthorizationApi\AuthorizationApi\bin\Debug\net5.0\AuthorizationApi.dll
+D:\Cognizant Practice File\MFPE\Pharmacy Medicine\AuthorizationApi\AuthorizationApi\bin\Debug\net5.0\AuthorizationApi.pdb
+D:\Cognizant Practice File\MFPE\Pharmacy Medicine\AuthorizationApi\AuthorizationApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Cognizant Practice File\MFPE\Pharmacy Medicine\AuthorizationApi\AuthorizationApi\bin\Debug\net5.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Cognizant Practice File\MFPE\Pharmacy Medicine\AuthorizationApi\AuthorizationApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Cognizant Practice File\MFPE\Pharmacy Medicine\AuthorizationApi\AuthorizationApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Cognizant Practice File\MFPE\Pharmacy Medicine\AuthorizationApi\AuthorizationApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Cognizant Practice File\MFPE\Pharmacy Medicine\AuthorizationApi\AuthorizationApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Cognizant Practice File\MFPE\Pharmacy Medicine\AuthorizationApi\AuthorizationApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Cognizant Practice File\MFPE\Pharmacy Medicine\AuthorizationApi\AuthorizationApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Cognizant Practice File\MFPE\Pharmacy Medicine\AuthorizationApi\AuthorizationApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Cognizant Practice File\MFPE\Pharmacy Medicine\AuthorizationApi\AuthorizationApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Cognizant Practice File\MFPE\Pharmacy Medicine\AuthorizationApi\AuthorizationApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Cognizant Practice File\MFPE\Pharmacy Medicine\AuthorizationApi\AuthorizationApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Cognizant Practice File\MFPE\Pharmacy Medicine\AuthorizationApi\AuthorizationApi\obj\Debug\net5.0\AuthorizationApi.csproj.AssemblyReference.cache
+D:\Cognizant Practice File\MFPE\Pharmacy Medicine\AuthorizationApi\AuthorizationApi\obj\Debug\net5.0\AuthorizationApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cognizant Practice File\MFPE\Pharmacy Medicine\AuthorizationApi\AuthorizationApi\obj\Debug\net5.0\AuthorizationApi.AssemblyInfoInputs.cache
+D:\Cognizant Practice File\MFPE\Pharmacy Medicine\AuthorizationApi\AuthorizationApi\obj\Debug\net5.0\AuthorizationApi.AssemblyInfo.cs
+D:\Cognizant Practice File\MFPE\Pharmacy Medicine\AuthorizationApi\AuthorizationApi\obj\Debug\net5.0\AuthorizationApi.csproj.CoreCompileInputs.cache
+D:\Cognizant Practice File\MFPE\Pharmacy Medicine\AuthorizationApi\AuthorizationApi\obj\Debug\net5.0\AuthorizationApi.MvcApplicationPartsAssemblyInfo.cs
+D:\Cognizant Practice File\MFPE\Pharmacy Medicine\AuthorizationApi\AuthorizationApi\obj\Debug\net5.0\AuthorizationApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Cognizant Practice File\MFPE\Pharmacy Medicine\AuthorizationApi\AuthorizationApi\obj\Debug\net5.0\scopedcss\bundle\AuthorizationApi.styles.css
+D:\Cognizant Practice File\MFPE\Pharmacy Medicine\AuthorizationApi\AuthorizationApi\obj\Debug\net5.0\staticwebassets\AuthorizationApi.StaticWebAssets.Manifest.cache
+D:\Cognizant Practice File\MFPE\Pharmacy Medicine\AuthorizationApi\AuthorizationApi\obj\Debug\net5.0\AuthorizationApi.RazorTargetAssemblyInfo.cache
+D:\Cognizant Practice File\MFPE\Pharmacy Medicine\AuthorizationApi\AuthorizationApi\obj\Debug\net5.0\AuthorizationApi.csproj.CopyComplete
+D:\Cognizant Practice File\MFPE\Pharmacy Medicine\AuthorizationApi\AuthorizationApi\obj\Debug\net5.0\AuthorizationApi.dll
+D:\Cognizant Practice File\MFPE\Pharmacy Medicine\AuthorizationApi\AuthorizationApi\obj\Debug\net5.0\refint\AuthorizationApi.dll
+D:\Cognizant Practice File\MFPE\Pharmacy Medicine\AuthorizationApi\AuthorizationApi\obj\Debug\net5.0\AuthorizationApi.pdb
+D:\Cognizant Practice File\MFPE\Pharmacy Medicine\AuthorizationApi\AuthorizationApi\obj\Debug\net5.0\AuthorizationApi.genruntimeconfig.cache
+D:\Cognizant Practice File\MFPE\Pharmacy Medicine\AuthorizationApi\AuthorizationApi\obj\Debug\net5.0\ref\AuthorizationApi.dll

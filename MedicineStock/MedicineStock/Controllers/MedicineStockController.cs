@@ -1,9 +1,10 @@
 ﻿using MedicineStock.DataProvider;
 using MedicineStock.Model;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using System.Collections.Generic;
-
+using System;
 namespace MedicineStock.Controllers
 {
     [Route("")]
@@ -15,10 +16,18 @@ namespace MedicineStock.Controllers
         {
             MedicineDataProvider = new MedicineDataProvider();
         }
+        [Authorize]
         [HttpGet("MedicineStockInformation")]
         public IActionResult MedicineStockInformation()
         {
-            return Ok(MedicineDataProvider.GetList());
+            try
+            {
+                return Ok(MedicineDataProvider.GetList());
+            }
+            catch(Exception)
+            {
+                return null;
+            }
         }
     }
 }
