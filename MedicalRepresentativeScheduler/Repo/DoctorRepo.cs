@@ -8,19 +8,19 @@ namespace MedicalRepresentativeScheduler.Repo
 {
     public class DoctorRepo : IDoctorRepo
     {
-        private string connectionString = "DefaultEndpointsProtocol=https;AccountName=storageaccount85;AccountKey=j/nWqmg0CHzjqfZU+UwhSkuhp7iSf/8SUYlJHgJiQPQqJOZKBje2UqjfOaER3hZHJRiFxJl6u1zZ+ASt8aAHpA==;EndpointSuffix=core.windows.net";
+        private string connectionString = "";
         private string _containerName = "blobcontainer";
         public List<Doctor> GetDoctorDetails()
         {
-            List<Doctor> doctors = GetDetailsCSV();
-            //List<Doctor> doctors = new List<Doctor>()
-            //{
-            //    new Doctor{Id=1,Name="D1",ContactNumber=9884122113,Slot="1PM TO 2PM",TreatingAlignment="Orthopaedics" },
-            //    new Doctor{Id=2,Name="D2",ContactNumber=9884122113,Slot="1PM TO 2PM",TreatingAlignment="General" },
-            //    new Doctor{Id=3,Name="D3",ContactNumber=9884122113,Slot="1PM TO 2PM",TreatingAlignment="General" },
-            //    new Doctor{Id=4,Name="D4",ContactNumber=9884122113,Slot="1PM TO 2PM",TreatingAlignment="Orthopaedics" },
-            //    new Doctor{Id=5,Name="D5",ContactNumber=9884122113,Slot="1PM TO 2PM",TreatingAlignment="Gynaecology" }
-            //};
+            //List<Doctor> doctors = GetDetailsCSV();
+            List<Doctor> doctors = new List<Doctor>()
+            {
+               new Doctor{Id=1,Name="D1",ContactNumber=9884122113,Slot="1PM TO 2PM",TreatingAlignment="Orthopaedics" },
+               new Doctor{Id=2,Name="D2",ContactNumber=9884122113,Slot="1PM TO 2PM",TreatingAlignment="General" },
+               new Doctor{Id=3,Name="D3",ContactNumber=9884122113,Slot="1PM TO 2PM",TreatingAlignment="General" },
+               new Doctor{Id=4,Name="D4",ContactNumber=9884122113,Slot="1PM TO 2PM",TreatingAlignment="Orthopaedics" },
+               new Doctor{Id=5,Name="D5",ContactNumber=9884122113,Slot="1PM TO 2PM",TreatingAlignment="Gynaecology" }
+            };
             return doctors;
         }
 
