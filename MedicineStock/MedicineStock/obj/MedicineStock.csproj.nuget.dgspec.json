@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Cognizant Practice File\\MFPE\\Cloud\\MedicineStock\\MedicineStock\\MedicineStock.csproj": {}
+    "D:\\Cognizant Practice File\\MFPE\\connectmain\\MedicineStock\\MedicineStock\\MedicineStock.csproj": {}
   },
   "projects": {
-    "D:\\Cognizant Practice File\\MFPE\\Cloud\\MedicineStock\\MedicineStock\\MedicineStock.csproj": {
+    "D:\\Cognizant Practice File\\MFPE\\connectmain\\MedicineStock\\MedicineStock\\MedicineStock.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Cognizant Practice File\\MFPE\\Cloud\\MedicineStock\\MedicineStock\\MedicineStock.csproj",
+        "projectUniqueName": "D:\\Cognizant Practice File\\MFPE\\connectmain\\MedicineStock\\MedicineStock\\MedicineStock.csproj",
         "projectName": "MedicineStock",
-        "projectPath": "D:\\Cognizant Practice File\\MFPE\\Cloud\\MedicineStock\\MedicineStock\\MedicineStock.csproj",
+        "projectPath": "D:\\Cognizant Practice File\\MFPE\\connectmain\\MedicineStock\\MedicineStock\\MedicineStock.csproj",
         "packagesPath": "C:\\Users\\Acer\\.nuget\\packages\\",
-        "outputPath": "D:\\Cognizant Practice File\\MFPE\\Cloud\\MedicineStock\\MedicineStock\\obj\\",
+        "outputPath": "D:\\Cognizant Practice File\\MFPE\\connectmain\\MedicineStock\\MedicineStock\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Acer\\AppData\\Roaming\\NuGet\\NuGet.Config",

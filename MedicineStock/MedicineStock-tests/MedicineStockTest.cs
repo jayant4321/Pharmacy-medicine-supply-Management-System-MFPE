@@ -1,15 +1,13 @@
+﻿using System;
+using System.Collections.Generic;
 using MedicineStock.DataProvider;
 using MedicineStock.Model;
 using Moq;
 using NUnit.Framework;
-using System.Collections.Generic;
-
 namespace MedicineStock_tests
 {
-    [TestFixture]
-    public class MedicineStockTests
+    internal class MedicineStockTest
     {
-
         List<Medicine> medicines = new List<Medicine>();
 
 

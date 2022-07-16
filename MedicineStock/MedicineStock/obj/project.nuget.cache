@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ymZeosp/5kT/x508KzGzayy3ZmbT5xVOvQnfvoSOHWZaT4cnFW4pT6KNZiu79Vo6pFzpl3AozF9vu+JVBzrbsw==",
+  "dgSpecHash": "XjE++f+iEHqufVaZxl2bU3Jg2L4fJd6fkXH35HsQ0dXGFDRUUI+p0hMhV4pROLawtfczws5x+icRU6wsFI0IPg==",
   "success": true,
-  "projectFilePath": "D:\\Cognizant Practice File\\MFPE\\Cloud\\MedicineStock\\MedicineStock\\MedicineStock.csproj",
+  "projectFilePath": "D:\\Cognizant Practice File\\MFPE\\connectmain\\MedicineStock\\MedicineStock\\MedicineStock.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Acer\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\5.0.17\\microsoft.aspnetcore.authentication.jwtbearer.5.0.17.nupkg.sha512",
     "C:\\Users\\Acer\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
