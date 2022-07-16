@@ -1,12 +1,16 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 using AuthorizationApi.DataProvider;
 using AuthorizationApi.Model;
 using Moq;
 using NUnit.Framework;
-using System.Collections.Generic;
 
 namespace AuthorizationApi_tests
 {
-    public class AuthorizationApiTest
+    internal class AuthorizationApiTest
     {
         List<PharmacyMembers> user = new List<PharmacyMembers>();
 
@@ -46,6 +50,5 @@ namespace AuthorizationApi_tests
             Assert.IsNull(penCred);
 
         }
-
     }
 }

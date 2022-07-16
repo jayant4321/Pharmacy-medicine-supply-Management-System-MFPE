@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Pharmacy-medicine-supply-Management-System-MFPE-master\\AuthorizationApi\\AuthorizationApi-tests\\AuthorizationApi-tests.csproj": {}
+    "D:\\Cognizant Practice File\\MFPE\\connectmain\\AuthorizationApi-tests\\AuthorizationApi-tests.csproj": {}
   },
   "projects": {
-    "D:\\Pharmacy-medicine-supply-Management-System-MFPE-master\\AuthorizationApi\\AuthorizationApi-tests\\AuthorizationApi-tests.csproj": {
+    "D:\\Cognizant Practice File\\MFPE\\connectmain\\AuthorizationApi-tests\\AuthorizationApi-tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Pharmacy-medicine-supply-Management-System-MFPE-master\\AuthorizationApi\\AuthorizationApi-tests\\AuthorizationApi-tests.csproj",
+        "projectUniqueName": "D:\\Cognizant Practice File\\MFPE\\connectmain\\AuthorizationApi-tests\\AuthorizationApi-tests.csproj",
         "projectName": "AuthorizationApi-tests",
-        "projectPath": "D:\\Pharmacy-medicine-supply-Management-System-MFPE-master\\AuthorizationApi\\AuthorizationApi-tests\\AuthorizationApi-tests.csproj",
-        "packagesPath": "C:\\Users\\Shubham Mazumdar\\.nuget\\packages\\",
-        "outputPath": "D:\\Pharmacy-medicine-supply-Management-System-MFPE-master\\AuthorizationApi\\AuthorizationApi-tests\\obj\\",
+        "projectPath": "D:\\Cognizant Practice File\\MFPE\\connectmain\\AuthorizationApi-tests\\AuthorizationApi-tests.csproj",
+        "packagesPath": "C:\\Users\\Acer\\.nuget\\packages\\",
+        "outputPath": "D:\\Cognizant Practice File\\MFPE\\connectmain\\AuthorizationApi-tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Shubham Mazumdar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Acer\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,8 +28,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\Pharmacy-medicine-supply-Management-System-MFPE-master\\AuthorizationApi\\AuthorizationApi\\AuthorizationApi.csproj": {
-                "projectPath": "D:\\Pharmacy-medicine-supply-Management-System-MFPE-master\\AuthorizationApi\\AuthorizationApi\\AuthorizationApi.csproj"
+              "D:\\Cognizant Practice File\\MFPE\\connectmain\\AuthorizationApi\\AuthorizationApi\\AuthorizationApi.csproj": {
+                "projectPath": "D:\\Cognizant Practice File\\MFPE\\connectmain\\AuthorizationApi\\AuthorizationApi\\AuthorizationApi.csproj"
               }
             }
           }
@@ -46,7 +46,7 @@
           "dependencies": {
             "Microsoft.NET.Test.Sdk": {
               "target": "Package",
-              "version": "[17.1.0, )"
+              "version": "[16.11.0, )"
             },
             "Moq": {
               "target": "Package",
@@ -54,19 +54,15 @@
             },
             "NUnit": {
               "target": "Package",
-              "version": "[3.13.3, )"
-            },
-            "NUnit.Analyzers": {
-              "target": "Package",
-              "version": "[3.3.0, )"
+              "version": "[3.13.2, )"
             },
             "NUnit3TestAdapter": {
               "target": "Package",
-              "version": "[4.2.1, )"
+              "version": "[4.0.0, )"
             },
             "coverlet.collector": {
               "target": "Package",
-              "version": "[3.1.2, )"
+              "version": "[3.1.0, )"
             }
           },
           "imports": [
@@ -84,21 +80,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Pharmacy-medicine-supply-Management-System-MFPE-master\\AuthorizationApi\\AuthorizationApi\\AuthorizationApi.csproj": {
+    "D:\\Cognizant Practice File\\MFPE\\connectmain\\AuthorizationApi\\AuthorizationApi\\AuthorizationApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Pharmacy-medicine-supply-Management-System-MFPE-master\\AuthorizationApi\\AuthorizationApi\\AuthorizationApi.csproj",
+        "projectUniqueName": "D:\\Cognizant Practice File\\MFPE\\connectmain\\AuthorizationApi\\AuthorizationApi\\AuthorizationApi.csproj",
         "projectName": "AuthorizationApi",
-        "projectPath": "D:\\Pharmacy-medicine-supply-Management-System-MFPE-master\\AuthorizationApi\\AuthorizationApi\\AuthorizationApi.csproj",
-        "packagesPath": "C:\\Users\\Shubham Mazumdar\\.nuget\\packages\\",
-        "outputPath": "D:\\Pharmacy-medicine-supply-Management-System-MFPE-master\\AuthorizationApi\\AuthorizationApi\\obj\\",
+        "projectPath": "D:\\Cognizant Practice File\\MFPE\\connectmain\\AuthorizationApi\\AuthorizationApi\\AuthorizationApi.csproj",
+        "packagesPath": "C:\\Users\\Acer\\.nuget\\packages\\",
+        "outputPath": "D:\\Cognizant Practice File\\MFPE\\connectmain\\AuthorizationApi\\AuthorizationApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Shubham Mazumdar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Acer\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -163,7 +159,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

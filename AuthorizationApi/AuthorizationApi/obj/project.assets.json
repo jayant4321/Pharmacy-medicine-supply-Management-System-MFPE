@@ -698,11 +698,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Cognizant Practice File\\MFPE\\Cloud\\AuthorizationApi\\AuthorizationApi\\AuthorizationApi.csproj",
+      "projectUniqueName": "D:\\Cognizant Practice File\\MFPE\\connectmain\\AuthorizationApi\\AuthorizationApi\\AuthorizationApi.csproj",
       "projectName": "AuthorizationApi",
-      "projectPath": "D:\\Cognizant Practice File\\MFPE\\Cloud\\AuthorizationApi\\AuthorizationApi\\AuthorizationApi.csproj",
+      "projectPath": "D:\\Cognizant Practice File\\MFPE\\connectmain\\AuthorizationApi\\AuthorizationApi\\AuthorizationApi.csproj",
       "packagesPath": "C:\\Users\\Acer\\.nuget\\packages\\",
-      "outputPath": "D:\\Cognizant Practice File\\MFPE\\Cloud\\AuthorizationApi\\AuthorizationApi\\obj\\",
+      "outputPath": "D:\\Cognizant Practice File\\MFPE\\connectmain\\AuthorizationApi\\AuthorizationApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Acer\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32228.430
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuthorizationApi", "AuthorizationApi\AuthorizationApi.csproj", "{09248F6B-D4C2-42EA-9A0F-E9C3ECED25F2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AuthorizationApi", "AuthorizationApi\AuthorizationApi.csproj", "{09248F6B-D4C2-42EA-9A0F-E9C3ECED25F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuthorizationApi-tests", "..\AuthorizationApi-tests\AuthorizationApi-tests.csproj", "{BBF8D324-54DE-481A-AE99-20D2A342C604}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{09248F6B-D4C2-42EA-9A0F-E9C3ECED25F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{09248F6B-D4C2-42EA-9A0F-E9C3ECED25F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{09248F6B-D4C2-42EA-9A0F-E9C3ECED25F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBF8D324-54DE-481A-AE99-20D2A342C604}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBF8D324-54DE-481A-AE99-20D2A342C604}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBF8D324-54DE-481A-AE99-20D2A342C604}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBF8D324-54DE-481A-AE99-20D2A342C604}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
