@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
-    <RootNamespace>MedicineStock_tests</RootNamespace>
+    <RootNamespace>PharmacyMedicineSupply_tests</RootNamespace>
 
     <IsPackable>false</IsPackable>
   </PropertyGroup>
@@ -16,7 +16,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\MedicineStock\MedicineStock.csproj" />
+    <ProjectReference Include="..\PharmacyMedicineSupply\PharmacyMedicineSupply.csproj" />
   </ItemGroup>
 
 </Project>
