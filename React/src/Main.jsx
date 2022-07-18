@@ -15,7 +15,7 @@ export default function Main() {
     <Nav className="me-auto">
       <Nav.Link as={Link} to="/"><strong style={{color:"white"}}><HomeIcon className="header_logo" fontSize="small" /><span></span>Home</strong></Nav.Link>
       <Nav.Link as={Link} to="/Logout"><strong style={{color:"white"}}><LogoutIcon className="header_logo" fontSize="small" /><span>Logout</span></strong></Nav.Link>
-      <Nav.Link as={Link} to="/Pharmacysupply"><strong style={{color:"white"}}><MedicationIcon className="header_logo" fontSize="small" />Pharmacy SupplyPharmacy Supply</strong></Nav.Link>
+      <Nav.Link as={Link} to="/Pharmacysupply"><strong style={{color:"white"}}><MedicationIcon className="header_logo" fontSize="small" />Pharmacy Supply</strong></Nav.Link>
       <Nav.Link as={Link} to="/MedicalRepresentative"><strong style={{color:"white"}}><MedicationLiquidIcon className="header_logo" fontSize="small" />Medical Representative</strong></Nav.Link>
     </Nav>
     </Container>
