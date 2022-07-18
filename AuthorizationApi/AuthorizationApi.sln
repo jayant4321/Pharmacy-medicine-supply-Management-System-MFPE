@@ -5,7 +5,15 @@ VisualStudioVersion = 17.1.32228.430
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AuthorizationApi", "AuthorizationApi\AuthorizationApi.csproj", "{09248F6B-D4C2-42EA-9A0F-E9C3ECED25F2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuthorizationApi-tests", "..\AuthorizationApi-tests\AuthorizationApi-tests.csproj", "{BBF8D324-54DE-481A-AE99-20D2A342C604}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AuthorizationApi-tests", "..\AuthorizationApi-tests\AuthorizationApi-tests.csproj", "{BBF8D324-54DE-481A-AE99-20D2A342C604}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MedicineStock", "..\MedicineStock\MedicineStock\MedicineStock.csproj", "{687B3274-98F0-4C86-BD1D-0494581A6913}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MedicineStock-tests", "..\MedicineStock-tests\MedicineStock-tests.csproj", "{3328F62A-1D8B-4728-917F-E3176EA21CC7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PharmacyMedicineSupply", "..\PharmacyMedicineSupply\PharmacyMedicineSupply\PharmacyMedicineSupply.csproj", "{44D7495B-4711-4858-92F7-4F6072F6EAB7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PharmacyMedicineSupply-tests", "..\PharmacyMedicineSupply-tests\PharmacyMedicineSupply-tests.csproj", "{896B7C55-4288-4143-B463-B08B7CD06F8F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +29,22 @@ Global
 		{BBF8D324-54DE-481A-AE99-20D2A342C604}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BBF8D324-54DE-481A-AE99-20D2A342C604}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BBF8D324-54DE-481A-AE99-20D2A342C604}.Release|Any CPU.Build.0 = Release|Any CPU
+		{687B3274-98F0-4C86-BD1D-0494581A6913}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{687B3274-98F0-4C86-BD1D-0494581A6913}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{687B3274-98F0-4C86-BD1D-0494581A6913}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{687B3274-98F0-4C86-BD1D-0494581A6913}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3328F62A-1D8B-4728-917F-E3176EA21CC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3328F62A-1D8B-4728-917F-E3176EA21CC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3328F62A-1D8B-4728-917F-E3176EA21CC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3328F62A-1D8B-4728-917F-E3176EA21CC7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44D7495B-4711-4858-92F7-4F6072F6EAB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44D7495B-4711-4858-92F7-4F6072F6EAB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44D7495B-4711-4858-92F7-4F6072F6EAB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44D7495B-4711-4858-92F7-4F6072F6EAB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{896B7C55-4288-4143-B463-B08B7CD06F8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{896B7C55-4288-4143-B463-B08B7CD06F8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{896B7C55-4288-4143-B463-B08B7CD06F8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{896B7C55-4288-4143-B463-B08B7CD06F8F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

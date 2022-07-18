@@ -1,0 +1,34 @@
+﻿apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: pharmacymedicinesupply-deployment
+  labels:
+    app: PharmacyMedicineSupplyService
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: PharmacyMedicineSupplyService
+  template:
+    metadata:
+      labels:
+        app: PharmacyMedicineSupplyService
+    spec:
+      containers:
+      - name: pharamacymedicinedockerizeimage
+        image: myfirstazurecrcog.azurecr.io/pharamacymedicinedockerizeimage:latest
+        ports:
+        - containerPort: 8080
+      imagePullSecrets:
+      - name: webapisvcsecret
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: pharmacymedicinesupplyservicesvc
+spec:
+  type: LoadBalancer
+  ports:
+  - port: 80
+  selector:
+    app: PharmacyMedicineSupplyService
